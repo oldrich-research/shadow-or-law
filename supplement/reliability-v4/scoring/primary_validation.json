@@ -1,0 +1,32 @@
+{
+ "G": {
+  "duplicate_items_ignored": [],
+  "unknown_items": [],
+  "n_items": 66,
+  "missing": [],
+  "missing_fields": {},
+  "invalid_tokens": {},
+  "consistency_violations": {},
+  "scorable": true
+ },
+ "M": {
+  "duplicate_items_ignored": [],
+  "unknown_items": [],
+  "n_items": 66,
+  "missing": [],
+  "missing_fields": {},
+  "invalid_tokens": {},
+  "consistency_violations": {},
+  "scorable": true
+ },
+ "C": {
+  "duplicate_items_ignored": [],
+  "unknown_items": [],
+  "n_items": 66,
+  "missing": [],
+  "missing_fields": {},
+  "invalid_tokens": {},
+  "consistency_violations": {},
+  "scorable": true
+ }
+}

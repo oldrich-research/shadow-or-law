@@ -1,0 +1,165 @@
+id	claim	grade	standing
+C01	The audit concerns structure-fixed scalar values, not whether a quantity can enter any law.	defined	current
+C02	Meaningfulness constrains admissible law forms under scale transformations and centrally precedes this audit.	established	current
+C03	Fibre constancy is equivalent to elementary factorization through retained information.	derived	current
+C04	Identifying a quantity does not identify its model; local constancy need not establish global constancy.	derived	current
+C05	Finite-resolution identifiability is not exact structural forcing.	established	current
+C06	Convention orbits, compatible histories and physical completion fibres must be distinguished.	defined	current
+C07	A selector fixed independently can make a target conditionally identifiable.	derived	conditional
+C08	A precise scalar can be computable without identifying its value-setting inputs.	derived	current
+C09	The composite seven-disposition protocol is proposed and requires external validation.	open	H1 proposed
+C10	The rational interval count uses distinct reduced fractions and a local Farey approximation.	defined	current
+C11	A count-density tail is not a nearest-expression tail or a probability of a physical law.	derived	current
+C12	Field strength is gauge-invariant and Lorentz-covariant, not componentwise frame-invariant.	established	current
+C13	Aharonov–Bohm holonomy can distinguish configurations with the same locally vanishing accessible field.	established	current
+C14	h/e is the AB phase period, not quantization of arbitrary imposed flux.	established	current
+C15	h/(2e) flux quantization requires condensate and boundary premises.	established	conditional
+C16	Gauge-orbit constancy establishes an observable but does not select its numerical value.	derived	current
+C17	Inflationary ns and r share N; eliminating N leaves an independently testable conditional relation.	derived	conditional
+C18	The best ns fraction is 55/57; 2/57 is its deficit.	recomputed	current
+C19	The flagship expression gives the printed G and its residuals with CODATA 2022 inputs: +1.84 ppm (0.08 sigma) from the recommended value and 1.16 sigma above the 2026 NIST redetermination.	recomputed	phenomenological
+C20	One compact diagonal heat kernel reproduces the flagship dependence asymptotically, not its physical readout or prefactor selection; the prefactor mismatch is about 10^5 and never exactly 1 for algebraically fixed normalizations.	source-bounded	conditional/open mechanism
+C21	Five completions with the same first two terms move G between approximately -22 and +10 ppm (+1.84, +9.76, -6.09, +1.52, -21.97), all within one standard uncertainty of the recommended G (+0.08, +0.43, -0.27, +0.07, -0.98); normalization remains model choice.	source-bounded	current scope
+C22	The full electron–Planck ratio inherits free inputs absent a mechanism under v3 rules.	source-bounded	conditional scope
+C23	The earlier unconditional zero-J scan was a basis artifact with Ue fixed to identity.	derived	corrected; old unconditional claim withdrawn
+C24	J=0 follows conditionally from common CP-real premise X across all lepton data and matching stages.	derived	conditional
+C25	Neutrino-sector exchange alone, without a charged-lepton basis, fixes neither J nor theta23; canonical exchange in that basis also predicts theta13=0, excluded by data.	derived	corrected; old unconditional claim withdrawn
+C26	Later predictions were first public October 6, 2026; internal registration is distinct.	source-bounded	current
+C27	Historical census totals are 74 rows, 61 refusals and 13 retained rows.	recomputed	historical in-sample
+C28	Historical refusals comprise 44 history, 6 governed, 3 convention, 3 model, 3 unmapped and 2 epoch rows.	recomputed	historical in-sample
+C29	The history total includes 24 particle rows, one materials row and 19 cosmological rows.	recomputed	historical in-sample
+C30	All 25 explicitly enumerated cosmological historical catalogue rows were historically refused, not 25 independent observables.	recomputed	historical in-sample
+C31	The four counts and exact uniform-circle arithmetic tails are reproduced; historical sham protocols remain missing.	recomputed	exact arithmetic null, not law probability
+C32	The historical age count 1103 refers to H0t0, not t0/tP.	recomputed	corrected
+C33	Census arm: alpha=.6524 (47 non-leak rows; all 74: .6751); majority matches historical role on 28/47. We adjudicated 26 disagreements (21 historical faults, 4 ambiguities, 1 dossier defect). Refused:73/74; projection-type54, governed11, unmapped8; history40.	measured	descriptive
+C34	Historical final nominal agreement is 0.639 and 0.389 in two three-family tests.	recomputed	inconclusive/fail
+C35	Step 0 in all rounds and step 5 in v3 have one category (all PASS; all NOT-REACHED on 60 foreign items): Do=De=0, alpha undefined; scorer prints 1 by convention.	recomputed	corrected
+C36	The first round has 5/6 controls per lane; second round 6/6.	recomputed	historical
+C37	Round-1 reference was faulted on 14 of 16 adjudicated disagreement items.	source-bounded	historical adjudication
+C38	Round-2 reference correction raises majority hits from 31/60 to 40/60 but not inter-annotator agreement.	recomputed	historical adjudication
+C39	Registered v3 alpha=189/1979=.0955: FAIL; controls 6/6 each, majority 59/60. Natural-form non-use on 43/44 unit-bearing foreign items (45/48 including controls); pretest under-specification and author-family confound; pair alpha=.927 exploratory only.	source-bounded	registered FAIL; pair exploratory
+C40	Selected medium accounts occur for 87 of 1614 hit decoys, with analytic selected rate 4.99985 percent.	measured	matched-null conditional
+C41	Narrow and wide simplicity-matched rates differ and the narrow grammar is post-target.	measured	limited calibration
+C42	An account gives a likelihood-ratio ceiling near 20 only under a valid comparable null and fixed story policy.	derived	conditional ceiling
+C43	Story and value p-values must not be multiplied as independent evidence.	derived	current
+C44	All 39 decoys tie the flagship (rank 20.5/40); scores identical within each family; test–retest 6/6.	measured	no target discrimination
+C45	The story has no weight under the registered rule; this does not exclude future mechanisms.	source-bounded	current rule
+C46	Koide mass-atom removal leaves audited sham flags unchanged at budgets 10, 15 and 16.	measured	cap-16 only
+C47	Koide main and filtered ledgers agree 6144/6144; removed-atom re-enumeration changes 122 expressions but no flags.	measured	cap-16 only
+C48	The atom ablation does not derive lepton masses or establish unaudited larger-budget results.	derived	current
+C49	The index has 163 nonempty route-verdict strings after removing 2 audits and 15 empty cells from 180 entries.	recomputed	not independent proofs
+C50	Twenty-two generic verdict strings do not substantiate closure by wording alone.	recomputed	scope limitation
+C51	Per-class route counts and historical second-invariant numerical significance are unavailable.	source-bounded	not recoverable here
+C52	The running-versus-discrete pattern is an in-programme observation, not a universal law.	source-bounded	historical scope
+C53	Cross-ratio and invariant mass are established instances of H0; their universal extension is the defended thesis.	established	instances established; extension thesis
+C54	A determinant does not select a matrix or its spectrum.	derived	current
+C55	Many-to-one coarse-graining is established; treating the invariant whole as primary is the defended H0 reading.	established	maps established; reading ours
+C56	H0 states the invariant whole is primary; specific physical support beyond its instances needs forward maps and unused shadows.	thesis	defended; no universal empirical proof
+C57	Comparable expected failures under rival hypotheses give no favorable Bayes factor; probabilities are not measured here.	derived	conditional
+C58	Vacuum mismatch is a Planck-cutoff heuristic; interpreting it or the landscape as shadows is a thesis reading, not a solution.	philosophical argument	reading, not resolution
+C59	Historical whole/appearance lineage is our argued reading, not equivalence of doctrines or empirical confirmation.	source-bounded	historical context
+C60	Computation type and current free inputs are operational boundaries, not impossibility proofs against future structural explanations.	derived	current
+C61	H2 is only a claim about this constructed census under its declared scope.	open	provisional in-sample
+C62	Identifiers and the reproducibility release are listed under Data and code availability.	defined	current
+C63	H4: the source of the shadows, the whole itself, is better understood as reason-like order (Logos) than as chance or brute order; argued, not measured.	philosophical argument	defended; not measurement
+C64	Whole, frame and shadow are one structure read three ways; an interpretation, not a derivation.	thesis	current
+C65	Acting on what projects the world is an open direction; no intervention apparatus or result is claimed.	open	not engineering result
+C66	Our flagship is output of the electroweak history under the free-input rule until a mechanism bridges it (c44); forward predictions stay registered (the neutrino mass sum is currently under pressure within LambdaCDM).	source-bounded	scoped refusal
+C67	Neither v3 nor the census arm contains a positive control; the v4 historical arm files 6/6 pre-law law numbers law candidate and refuses 5/5 patterns, on cases the annotators recognised.	measured	measured (v4)
+ROW-c01	3D Ising / Wilson-Fisher exponents: adjudicated ALREADY-GOVERNED; historical mapped ALREADY-GOVERNED; lanes G/M/C OUTPUT-OF-HISTORY/ALREADY-GOVERNED/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c02	Top Yukawa / top mass: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c03	θ_QCD / strong-CP angle: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c04	Scalar amplitude A_s: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c05	Neutrino = d6 assignment, Σm_ν: adjudicated OUTPUT-OF-HISTORY; historical mapped LAW-CANDIDATE; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c06	α_s(M_Z²): adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c07	Density fractions Ω_m0, Ω_Λ0, z_eq: adjudicated EPOCH-DEPENDENT; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C EPOCH-DEPENDENT/EPOCH-DEPENDENT/EPOCH-DEPENDENT; instructional leakage	adjudicated	constructed sample
+ROW-c08	Ω_c/Ω_b and (Ω_c+Ω_Λ)/Ω_b today (bundle): adjudicated EPOCH-DEPENDENT; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C EPOCH-DEPENDENT/EPOCH-DEPENDENT/EPOCH-DEPENDENT	adjudicated	constructed sample
+ROW-c09	m_e/M_Pl = √α_G: adjudicated OUTPUT-OF-HISTORY; historical mapped LAW-CANDIDATE; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c10	CMB temperature T_CMB0: adjudicated EPOCH-DEPENDENT; historical mapped CONVENTION-BOUND; lanes G/M/C EPOCH-DEPENDENT/EPOCH-DEPENDENT/EPOCH-DEPENDENT; instructional leakage	adjudicated	constructed sample
+ROW-c11	BBN light abundances Yp, D/H, Li/H: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c12	Free neutron lifetime: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c13	MSS chaos bound: adjudicated ALREADY-GOVERNED; historical mapped ALREADY-GOVERNED; lanes G/M/C ALREADY-GOVERNED/ALREADY-GOVERNED/ALREADY-GOVERNED	adjudicated	constructed sample
+ROW-c14	Deuteron magnetic moment: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c15	ω_b, ω_c, ω_m: adjudicated EPOCH-DEPENDENT; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C CONVENTION-BOUND/EPOCH-DEPENDENT/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c16	Λ_QCD / Λ_5: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/CONVENTION-BOUND	adjudicated	constructed sample
+ROW-c17	CMB lensing amplitude A_L: adjudicated ALREADY-GOVERNED; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C MODEL-CHOICE/OUTPUT-OF-HISTORY/ALREADY-GOVERNED	adjudicated	constructed sample
+ROW-c18	Muon anomalous moment, a_μ: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/MODEL-CHOICE/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c19	Acoustic scale θ_*, l_A: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c20	Quark mass ratios: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c21	Z/A as gravitational-source reading: adjudicated MODEL-CHOICE; historical mapped MODEL-CHOICE; lanes G/M/C MODEL-CHOICE/MODEL-CHOICE/ALREADY-GOVERNED	adjudicated	constructed sample
+ROW-c22	BAO sound horizon r_drag: adjudicated EPOCH-DEPENDENT; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C EPOCH-DEPENDENT/OUTPUT-OF-HISTORY/EPOCH-DEPENDENT; instructional leakage	adjudicated	constructed sample
+ROW-c23	Feigenbaum constants δ, α: adjudicated ALREADY-GOVERNED; historical mapped ALREADY-GOVERNED; lanes G/M/C ALREADY-GOVERNED/NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c24	Reionization optical depth τ: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c25	CKM angles / Cabibbo angle: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c26	N_eff, N_gen=3, ΔN_eff: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/ALREADY-GOVERNED	adjudicated	constructed sample
+ROW-c27	Deuteron/alpha binding energies: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c28	Electron anomalous moment, a_e: adjudicated ALREADY-GOVERNED; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C ALREADY-GOVERNED/MODEL-CHOICE/ALREADY-GOVERNED; instructional leakage	adjudicated	constructed sample
+ROW-c29	Genetic code 64→20+STOP orbit quotient: adjudicated NOT-YET-A-QUANTITY; historical mapped NOT-YET-A-QUANTITY; lanes G/M/C NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c30	m_p/m_e: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c31	Bekenstein-Hawking coefficient, S=A/4: adjudicated ALREADY-GOVERNED; historical mapped ALREADY-GOVERNED; lanes G/M/C ALREADY-GOVERNED/ALREADY-GOVERNED/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c32	Spectral running dn_s/dlnk: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c33	Higgs mass / m_H/v / λ_H: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c34	SI defining constants / quantum-electrical identities: adjudicated CONVENTION-BOUND; historical mapped CONVENTION-BOUND; lanes G/M/C CONVENTION-BOUND/CONVENTION-BOUND/CONVENTION-BOUND	adjudicated	constructed sample
+ROW-c35	Fermi constant / EW vev, G_F, v: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c36	KSS shear-viscosity ratio: adjudicated ALREADY-GOVERNED; historical mapped ALREADY-GOVERNED; lanes G/M/C ALREADY-GOVERNED/ALREADY-GOVERNED/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c37	Universe age t0, t0/t_Pl: adjudicated EPOCH-DEPENDENT; historical mapped EPOCH-DEPENDENT; lanes G/M/C EPOCH-DEPENDENT/EPOCH-DEPENDENT/EPOCH-DEPENDENT; instructional leakage	adjudicated	constructed sample
+ROW-c38	M_Pl: adjudicated CONVENTION-BOUND; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C CONVENTION-BOUND/OUTPUT-OF-HISTORY/CONVENTION-BOUND	adjudicated	constructed sample
+ROW-c39	Proton/deuteron/alpha charge radii: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c40	Deuteron electric quadrupole moment: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c41	Hubble constant H0: adjudicated EPOCH-DEPENDENT; historical mapped EPOCH-DEPENDENT; lanes G/M/C EPOCH-DEPENDENT/EPOCH-DEPENDENT/EPOCH-DEPENDENT; instructional leakage	adjudicated	constructed sample
+ROW-c42	Growth amplitude σ8, S8: adjudicated EPOCH-DEPENDENT; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C EPOCH-DEPENDENT/OUTPUT-OF-HISTORY/EPOCH-DEPENDENT; instructional leakage	adjudicated	constructed sample
+ROW-c43	Matter-radiation equality z_eq, a_eq, k_eq: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c44	α_G flagship formula: adjudicated OUTPUT-OF-HISTORY; historical mapped LAW-CANDIDATE; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c45	d7/d8 dark-sector assignments: adjudicated NOT-YET-A-QUANTITY; historical mapped LAW-CANDIDATE; lanes G/M/C NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c46	Dark-energy equation of state w, w0, wa: adjudicated MODEL-CHOICE; historical mapped MODEL-CHOICE; lanes G/M/C MODEL-CHOICE/OUTPUT-OF-HISTORY/MODEL-CHOICE	adjudicated	constructed sample
+ROW-c47	Spectral index n_s / tilt: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c48	P2-Chem GMTKN55 residuals: adjudicated NOT-YET-A-QUANTITY; historical mapped LAW-CANDIDATE; lanes G/M/C OUTPUT-OF-HISTORY/CONVENTION-BOUND/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c49	Chaitin's Ω_U: adjudicated NOT-YET-A-QUANTITY; historical mapped NOT-YET-A-QUANTITY; lanes G/M/C NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c50	Material T_c/E_F, Homes/Uemura ratios: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/NOT-YET-A-QUANTITY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c51	Baryon-to-photon ratio η: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c52	Tensor-to-scalar ratio r: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c53	alpha: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c54	Photon number density / entropy-per-photon: adjudicated EPOCH-DEPENDENT; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C EPOCH-DEPENDENT/EPOCH-DEPENDENT/EPOCH-DEPENDENT	adjudicated	constructed sample
+ROW-c55	Tau anomalous moment, a_τ: adjudicated ALREADY-GOVERNED; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C ALREADY-GOVERNED/MODEL-CHOICE/ALREADY-GOVERNED; instructional leakage	adjudicated	constructed sample
+ROW-c56	δ_CP=0/180, J_CP=0: adjudicated LAW-CANDIDATE; historical mapped LAW-CANDIDATE; lanes G/M/C LAW-CANDIDATE/OUTPUT-OF-HISTORY/LAW-CANDIDATE; instructional leakage	adjudicated	constructed sample
+ROW-c57	Non-Gaussianity f_NL: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c58	PMNS angles / TBM texture: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c59	Dark-energy scale ρ_Λ^(1/4): adjudicated OUTPUT-OF-HISTORY; historical mapped MODEL-CHOICE; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c60	CMB damping scale k_D: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c61	Neutron-proton mass splitting: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c62	G-alpha co-variation: adjudicated NOT-YET-A-QUANTITY; historical mapped LAW-CANDIDATE; lanes G/M/C EPOCH-DEPENDENT/LAW-CANDIDATE/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c63	d4 rung occupancy: adjudicated NOT-YET-A-QUANTITY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c64	sin²θ_W, M_W/M_Z: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c65	m_ββ envelope: adjudicated OUTPUT-OF-HISTORY; historical mapped LAW-CANDIDATE; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c66	Charged-lepton Koide relation, Q: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY	adjudicated	constructed sample
+ROW-c67	Proton/neutron magnetic moments: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c68	Triton/helion magnetic moments: adjudicated OUTPUT-OF-HISTORY; historical mapped OUTPUT-OF-HISTORY; lanes G/M/C OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY/OUTPUT-OF-HISTORY; instructional leakage	adjudicated	constructed sample
+ROW-c69	R_T(5)=22/105, R_J(5)=16/15: adjudicated ALREADY-GOVERNED; historical mapped LAW-CANDIDATE; lanes G/M/C ALREADY-GOVERNED/ALREADY-GOVERNED/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c70	Pure mathematical constants: adjudicated NOT-YET-A-QUANTITY; historical mapped NOT-YET-A-QUANTITY; lanes G/M/C NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c71	Spatial curvature Ω_K: adjudicated EPOCH-DEPENDENT; historical mapped MODEL-CHOICE; lanes G/M/C EPOCH-DEPENDENT/EPOCH-DEPENDENT/EPOCH-DEPENDENT	adjudicated	constructed sample
+ROW-c72	CHSH / Tsirelson bound, 2√2: adjudicated ALREADY-GOVERNED; historical mapped ALREADY-GOVERNED; lanes G/M/C ALREADY-GOVERNED/ALREADY-GOVERNED/ALREADY-GOVERNED	adjudicated	constructed sample
+ROW-c73	Ladder template exponent: adjudicated NOT-YET-A-QUANTITY; historical mapped LAW-CANDIDATE; lanes G/M/C NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY/NOT-YET-A-QUANTITY	adjudicated	constructed sample
+ROW-c74	Bekenstein bound coefficient, 2π: adjudicated ALREADY-GOVERNED; historical mapped CONVENTION-BOUND; lanes G/M/C ALREADY-GOVERNED/ALREADY-GOVERNED/ALREADY-GOVERNED	adjudicated	constructed sample
+ROLE-1	law-candidate is an operational first-stop role under the stated structure-fixed-value question.	defined	current
+ROLE-2	output of history is an operational first-stop role under the stated structure-fixed-value question.	defined	current
+ROLE-3	model choice is an operational first-stop role under the stated structure-fixed-value question.	defined	current
+ROLE-4	not yet a quantity is an operational first-stop role under the stated structure-fixed-value question.	defined	current
+ROLE-5	convention-bound is an operational first-stop role under the stated structure-fixed-value question.	defined	current
+ROLE-6	epoch-dependent is an operational first-stop role under the stated structure-fixed-value question.	defined	current
+ROLE-7	already governed is an operational first-stop role under the stated structure-fixed-value question.	defined	current
+MOVE-1	Occurrence in a decomposition does not select a physical representation.	derived	scope-dependent guard, not prevalence claim
+MOVE-2	A decomposable invariant does not construct a connected realization.	derived	scope-dependent guard, not prevalence claim
+MOVE-3	Dimensions or Casimirs do not set absolute physical depths without a dictionary.	derived	scope-dependent guard, not prevalence claim
+MOVE-4	Scheme-dependent ppm closeness does not establish an exact law.	derived	scope-dependent guard, not prevalence claim
+MOVE-5	Amplitude, probability and record cannot be interchanged without a physical instrument.	derived	scope-dependent guard, not prevalence claim
+MOVE-6	A tangent identity does not establish an all-order finite law without composition.	derived	scope-dependent guard, not prevalence claim
+MOVE-7	Global charges cannot be copied directly onto local carriers without a construction.	derived	scope-dependent guard, not prevalence claim
+MOVE-8	Gauge generators or representatives are not direct observables.	derived	scope-dependent guard, not prevalence claim
+MOVE-9	Ontology preference alone does not select a completion.	derived	scope-dependent guard, not prevalence claim
+MOVE-10	A determinant fit does not derive the spectrum.	derived	scope-dependent guard, not prevalence claim
+C68	The separately preregistered v4 assay gives alpha=1 on 60 fresh items, all filed identically by three families; controls 6/6 each. v4 does not rescue v3.	measured	registered STRONG
+C69	The v4 historical criterion is met: S=6/6, F=0/5 (bars S>=5, F<=1); every family recognised all 11 cases, so hindsight may have helped.	measured	historical criterion met
+C70	The two-faced dark sector is read as projections of one structure (thesis); a_0(z)proportional to H(z) versus constant a_0 is a registered question, untested after archival calibration failure.	thesis	registered question; untested
+C71	Whole, frame and shadow translate traditions and physics under a stated rule: structural place, observational expectations and marked gaps; six-entry table, not proof or evidence.	philosophical argument	proposal; translation
+C72	Use the order before fitting and to register independent predictions; cited bioelectric/intervention biology motivates an open physics direction, not a demonstrated physical lever or engineering prescription.	source-bounded	cited biology; physics direction open
+C73	Gravitation, electromagnetism and light, spacetime, mass and rest energy and electroweak theory are cited historical unifications in which one description reproduced the consequences of two; Planck (1937) identified the world order of science with the God of religion. They motivate the proposed vocabulary, not a new derivation.	established	cited history

@@ -1,0 +1,86 @@
+{
+  "seed": "20261008-p15-v4",
+  "source": "v3 controls reused unchanged (control_key_v3.json)",
+  "controls": [
+    {
+      "control_id": "c01",
+      "name": "IAU solar effective-temperature conversion constant",
+      "disposition": "CONVENTION-BOUND",
+      "definition": "Solar effective-temperature conversion scale adopted by IAU Resolution B3 in 2015; target is the assigned conversion value, not a photospheric temperature estimate.",
+      "units": "temperature; K",
+      "value": "5772",
+      "sigma": "0; assigned exact conversion value",
+      "source": "https://arxiv.org/pdf/1510.07674 ; IAU 2015 Resolution B3, table Solar Conversion Constants; sources/iau2015_b3.txt line 92",
+      "context": "The resolution adopts this temperature for consistent conversions in solar and stellar astronomy. The assigned scale is held fixed as observational estimates of the Sun improve. Thermometry of the photosphere is a distinct target.",
+      "basis": "IAU conversion constant assigned exact, step1 definition precedes natural rescaling"
+    },
+    {
+      "control_id": "c02",
+      "name": "oxygen standard formation-enthalpy reference at 298.15 K",
+      "disposition": "CONVENTION-BOUND",
+      "definition": "Standard molar enthalpy of formation assigned to elemental oxygen gas in its reference state at 298.15 K.",
+      "units": "energy per amount; kJ mol^-1",
+      "value": "0",
+      "sigma": "0; assigned thermochemical baseline",
+      "source": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C7782447&Units=SI&Mask=1#Thermo-Gas ; NIST-JANAF oxygen gas table, Shomate H=0; sources/oxygen_formation.html lines 515-516",
+      "context": "Thermochemical tables assign zero formation enthalpy to an element in its reference state. Reaction calorimetry measures differences between reactants and products; formation enthalpies use this elemental baseline. The target is the assigned reference rather than a heat capacity or an oxygen dissociation energy.",
+      "basis": "assigned zero elemental reference, not empirical oxygen energy"
+    },
+    {
+      "control_id": "c03",
+      "name": "Mars orbital mean longitude at J2000",
+      "disposition": "EPOCH-DEPENDENT",
+      "definition": "Mean longitude L of the heliocentric Mars orbit at the J2000 reference instant in the mean ecliptic and equinox axes of J2000.",
+      "units": "angle; degree",
+      "value": "-4.55343205",
+      "sigma": "not reported by source; approximate orbital fit",
+      "source": "https://ssd.jpl.nasa.gov/planets/approx_pos.html ; Table 1, Mars L column; sources/jpl_approx_pos.html lines 707-708",
+      "context": "Solar-system tracking and an orbital fit specify the longitude at the stated instant. The same table gives its rate as 19140.30268499 degrees per century, so the angle advances as Mars moves along its orbit. Adding one full revolution changes only the angular display.",
+      "basis": "physical angle evolves with reference instant, step1 epoch"
+    },
+    {
+      "control_id": "c04",
+      "name": "absolute electrostatic potential without a reference",
+      "disposition": "NOT-YET-A-QUANTITY",
+      "definition": "Proposed absolute scalar electrostatic potential at a laboratory point, with no second point, boundary value or external potential reference specified.",
+      "units": "electric potential; V",
+      "value": "no empirical measurement",
+      "sigma": "not assigned",
+      "source": "https://web.mit.edu/8.02t/www/802TEAL3D/visualizations/coursenotes/modules/guide04.pdf ; MIT 8.02 notes, potential reference and conductor potentials; sources/mit_potential.txt line 843",
+      "context": "A voltmeter connects two points and records a potential difference. Adding the same constant to all scalar potentials leaves the electric field and voltage differences unchanged. The proposed absolute reading supplies no operation to distinguish those additions.",
+      "basis": "no operational readout of proposed absolute value, step0"
+    },
+    {
+      "control_id": "c05",
+      "name": "Neptune atmospheric methane volume fraction",
+      "disposition": "OUTPUT-OF-HISTORY",
+      "definition": "Methane volume fraction in the bulk atmospheric composition reported for Neptune.",
+      "units": "dimensionless",
+      "value": "0.015",
+      "sigma": "0.005; source parentheses converted from percentage points",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html ; NASA Neptune Fact Sheet atmosphere; sources/neptune_facts.html line 326",
+      "context": "Infrared absorption spectra constrain methane abundance in Neptune's atmosphere. The bulk composition entry lists hydrogen, helium and methane with an abundance estimate for each. Mixing, condensation and chemical processing of atmospheric material affect the amount of methane.",
+      "basis": "composition from atmospheric material dynamics, not a structural exact value"
+    },
+    {
+      "control_id": "c06",
+      "name": "dilute neon heat-capacity ratio Cp/Cv at 300 K",
+      "disposition": "ALREADY-GOVERNED",
+      "definition": "Ratio of constant-pressure to constant-volume molar heat capacities of dilute monatomic neon at 300 K, with gas-interaction corrections removed.",
+      "units": "dimensionless",
+      "value": "1.666667; rounded evaluation of NIST Cp/(Cp-R)",
+      "sigma": "not reported in NIST fit",
+      "source": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C7440019&Units=SI&Mask=1#Thermo-Gas ; NIST-JANAF neon Shomate heat capacity, A=20.78603 J mol^-1 K^-1; sources/neon_heat_capacity.html line 489; CODATA 2022 molar gas constant",
+      "context": "Calorimetry and acoustic response determine the heat capacities, and pressure extrapolation removes gas-interaction corrections. At this temperature electronic excitation is negligible and neon has three translational degrees of freedom. Equipartition gives Cv=3R/2 and Cp=Cv+R for this dilute regime, making the ratio five thirds.",
+      "basis": "measurable dilute gas limit, textbook equipartition, STATIC then SELECTED-ESTABLISHED"
+    }
+  ],
+  "assignments": {
+    "q10": "c05",
+    "q24": "c01",
+    "q40": "c06",
+    "q53": "c03",
+    "q56": "c04",
+    "q63": "c02"
+  }
+}

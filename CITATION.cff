@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+version: "paper-2026-10"
+date-released: "2026-10-12"
+message: "If you use this work, please cite the paper below."
+title: "Shadow or law? Measured numbers as projections of an invariant whole, and a test of which of them could be fixed by structure"
+type: dataset
+authors:
+  - family-names: "Dvořák"
+    given-names: "Oldřich"
+doi: "10.5281/zenodo.23221015"
+license: "CC-BY-4.0"
+url: "https://doi.org/10.5281/zenodo.23221015"
+repository-code: "https://github.com/oldrich-research/shadow-or-law"
+preferred-citation:
+  type: generic
+  title: "Shadow or law? Measured numbers as projections of an invariant whole, and a test of which of them could be fixed by structure"
+  authors:
+    - family-names: "Dvořák"
+      given-names: "Oldřich"
+  year: 2026
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23221015"
+  url: "https://doi.org/10.5281/zenodo.23221015"

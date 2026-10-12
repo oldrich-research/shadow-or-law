@@ -1,0 +1,169 @@
+{
+ "n_items": 66,
+ "n_foreign": 60,
+ "n_controls": 6,
+ "lanes": [
+  "L-C",
+  "L-M",
+  "L-G"
+ ],
+ "controls": {
+  "L-C": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  },
+  "L-M": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  },
+  "L-G": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  }
+ },
+ "alpha_disposition": 0.09550277918140475,
+ "alpha_disposition_exact": "189/1979",
+ "alpha_steps": {
+  "step0": 1.0,
+  "step1": 0.09550277918140475,
+  "step2": 0.021323127392017496,
+  "step5": 1.0
+ },
+ "alpha_pairwise": {
+  "L-C|L-M": -0.2105798575788403,
+  "L-C|L-G": 0.927038626609442,
+  "L-M|L-G": -0.17463933181473046
+ },
+ "verdict": "FAIL",
+ "majority_none": [],
+ "validity_accuracy": 0.9833333333333333,
+ "lane_vs_reference": {
+  "L-C": 1.0,
+  "L-M": 0.3333333333333333,
+  "L-G": 0.9833333333333333
+ },
+ "confusion_ref_rows_majority_cols": {
+  "LAW-CANDIDATE": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 0,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "OUTPUT-OF-HISTORY": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 52,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 1,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "MODEL-CHOICE": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 0,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "NOT-YET-A-QUANTITY": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 0,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "CONVENTION-BOUND": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 3,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "EPOCH-DEPENDENT": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 0,
+   "EPOCH-DEPENDENT": 4,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "ALREADY-GOVERNED": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 0,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  }
+ },
+ "disagreements": [
+  {
+   "item": "q20",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "CONVENTION-BOUND",
+   "L-C": "OUTPUT-OF-HISTORY",
+   "L-M": "CONVENTION-BOUND",
+   "L-G": "CONVENTION-BOUND"
+  }
+ ],
+ "distribution": {
+  "L-C": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 53,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 3,
+   "EPOCH-DEPENDENT": 4,
+   "ALREADY-GOVERNED": 0
+  },
+  "L-M": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 13,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 43,
+   "EPOCH-DEPENDENT": 4,
+   "ALREADY-GOVERNED": 0
+  },
+  "L-G": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 52,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 4,
+   "EPOCH-DEPENDENT": 4,
+   "ALREADY-GOVERNED": 0
+  },
+  "reference": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 53,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 3,
+   "EPOCH-DEPENDENT": 4,
+   "ALREADY-GOVERNED": 0
+  }
+ },
+ "scorer_sha256": "66a2c7580c30fd58116017fd278a38243e4b928fb498979de4ee3ea9824cc4a5"
+}

@@ -1,0 +1,344 @@
+{"primary_metrics.json":{
+ "protocol": "PROTOCOL_V4.md sha256 99ff717a…",
+ "n_items": 66,
+ "n_foreign": 60,
+ "lanes": [
+  "L-G (OpenAI gpt-6.1-sol)",
+  "L-M (Google gemini-3.1-pro)",
+  "L-C (Anthropic claude-opus-5-5)"
+ ],
+ "controls": {
+  "G": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  },
+  "M": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  },
+  "C": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  }
+ },
+ "valid_lanes": [
+  "G",
+  "M",
+  "C"
+ ],
+ "alpha_disposition": 1.0,
+ "alpha_disposition_exact": "1",
+ "verdict": "STRONG",
+ "alpha_steps": {
+  "step0": 1.0,
+  "step1": 1.0,
+  "step2": 1.0,
+  "step5": 1.0
+ },
+ "alpha_pairwise": {
+  "G|M": 1.0,
+  "G|C": 1.0,
+  "M|C": 1.0
+ },
+ "unanimous": 60,
+ "majority_none": [],
+ "majority_distribution": {
+  "LAW-CANDIDATE": 0,
+  "OUTPUT-OF-HISTORY": 41,
+  "MODEL-CHOICE": 0,
+  "NOT-YET-A-QUANTITY": 0,
+  "CONVENTION-BOUND": 6,
+  "EPOCH-DEPENDENT": 10,
+  "ALREADY-GOVERNED": 3
+ },
+ "distribution": {
+  "G": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 41,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 6,
+   "EPOCH-DEPENDENT": 10,
+   "ALREADY-GOVERNED": 3
+  },
+  "M": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 41,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 6,
+   "EPOCH-DEPENDENT": 10,
+   "ALREADY-GOVERNED": 3
+  },
+  "C": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 41,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 6,
+   "EPOCH-DEPENDENT": 10,
+   "ALREADY-GOVERNED": 3
+  }
+ },
+ "not_unanimous": [],
+ "natural_form": {
+  "unit_bearing_items": 43,
+  "unit_bearing_list": {
+   "q01": "km",
+   "q02": "MeV",
+   "q03": "degree Celsius",
+   "q04": "MeV",
+   "q05": "kg",
+   "q08": "g cm^-3",
+   "q09": "10^24 kg",
+   "q11": "fm",
+   "q12": "eV",
+   "q13": "fm",
+   "q16": "m^-3",
+   "q17": "V",
+   "q18": "kg",
+   "q19": "s",
+   "q21": "V m^-1",
+   "q22": "GeV",
+   "q23": "g cm^-3",
+   "q27": "MeV",
+   "q28": "g cm^-3",
+   "q30": "fm",
+   "q32": "eV",
+   "q35": "MeV",
+   "q37": "g cm^-3",
+   "q38": "fm",
+   "q41": "fm",
+   "q42": "MeV",
+   "q43": "MeV",
+   "q44": "MeV",
+   "q45": "eV",
+   "q46": "degree",
+   "q47": "fm",
+   "q48": "fm",
+   "q50": "kg",
+   "q51": "C m^2",
+   "q52": "degree",
+   "q54": "MeV",
+   "q55": "V m^-2",
+   "q57": "eV",
+   "q58": "degree",
+   "q60": "degree",
+   "q61": "kg",
+   "q62": "fm",
+   "q65": "eV"
+  },
+  "G": {
+   "ratio_named": 32,
+   "none_with_reason": 6,
+   "fail_unit_without_none": []
+  },
+  "M": {
+   "ratio_named": 33,
+   "none_with_reason": 6,
+   "fail_unit_without_none": []
+  },
+  "C": {
+   "ratio_named": 33,
+   "none_with_reason": 6,
+   "fail_unit_without_none": []
+  }
+ },
+ "scorer_sha256": "66a2c7580c30fd58116017fd278a38243e4b928fb498979de4ee3ea9824cc4a5"
+},"hist_metrics.json":{
+ "S": 6,
+ "F": 0,
+ "n_pos": 6,
+ "n_neg": 5,
+ "verdict": "YES-BRANCH WORKS",
+ "per_lane": {
+  "G": {
+   "S": 5,
+   "F": 0
+  },
+  "M": {
+   "S": 6,
+   "F": 0
+  },
+  "C": {
+   "S": 6,
+   "F": 0
+  }
+ },
+ "recognized_by_any_lane": 11,
+ "unrecognized_items": [],
+ "S_unrecognized": 0,
+ "F_unrecognized": 0,
+ "rows": [
+  {
+   "item": "h01",
+   "case": "P1-combining-volumes",
+   "truth": "POSITIVE",
+   "best_class": "LAW-CANDIDATE",
+   "G": "LAW-CANDIDATE",
+   "M": "LAW-CANDIDATE",
+   "C": "LAW-CANDIDATE",
+   "majority": "LAW-CANDIDATE",
+   "recognized": {
+    "G": "yes — hydrogen–oxygen combining volumes and the law of combining volumes",
+    "M": "yes — Gay-Lussac's law of combining volumes for hydrogen and oxygen.",
+    "C": "yes — the hydrogen–oxygen 2:1 combining-volume result behind the law of combining volumes, before the equal-volumes–equal-numbers hypothesis was accepted"
+   }
+  },
+  {
+   "item": "h02",
+   "case": "N2-disc-ratio",
+   "truth": "NEGATIVE",
+   "best_class": "EPOCH-DEPENDENT",
+   "G": "EPOCH-DEPENDENT",
+   "M": "EPOCH-DEPENDENT",
+   "C": "EPOCH-DEPENDENT",
+   "majority": "EPOCH-DEPENDENT",
+   "recognized": {
+    "G": "yes — the Moon–Sun apparent-size coincidence underlying solar eclipses",
+    "M": "yes — ratio of apparent angular diameters of the Moon and the Sun.",
+    "C": "yes — the Moon/Sun angular-size coincidence that makes total solar eclipses possible"
+   }
+  },
+  {
+   "item": "h03",
+   "case": "P6-moment-anomaly",
+   "truth": "POSITIVE",
+   "best_class": "LAW-CANDIDATE",
+   "G": "LAW-CANDIDATE",
+   "M": "LAW-CANDIDATE",
+   "C": "LAW-CANDIDATE",
+   "majority": "LAW-CANDIDATE",
+   "recognized": {
+    "G": "yes — the early electron anomalous magnetic-moment measurement",
+    "M": "yes — electron anomalous magnetic moment (Schwinger value).",
+    "C": "yes — the early measurement of the electron's anomalous magnetic moment from atomic g-factor ratios, before the finite radiative-correction result"
+   }
+  },
+  {
+   "item": "h04",
+   "case": "N5-cycle-over-orbit",
+   "truth": "NEGATIVE",
+   "best_class": "OUTPUT-OF-HISTORY",
+   "G": "OUTPUT-OF-HISTORY",
+   "M": "OUTPUT-OF-HISTORY",
+   "C": "OUTPUT-OF-HISTORY",
+   "majority": "OUTPUT-OF-HISTORY",
+   "recognized": {
+    "G": "yes — the approximately eleven-year sunspot cycle compared with Jupiter’s orbital period",
+    "M": "yes — ratio of the solar sunspot cycle length to Jupiter's orbital period.",
+    "C": "yes — the proposed link between the ~11-year sunspot cycle and Jupiter's orbital period"
+   }
+  },
+  {
+   "item": "h05",
+   "case": "N4-days-per-year",
+   "truth": "NEGATIVE",
+   "best_class": "EPOCH-DEPENDENT",
+   "G": "EPOCH-DEPENDENT",
+   "M": "EPOCH-DEPENDENT",
+   "C": "EPOCH-DEPENDENT",
+   "majority": "EPOCH-DEPENDENT",
+   "recognized": {
+    "G": "yes — the number of mean solar days in Earth’s tropical year",
+    "M": "yes — number of days in a year on Earth.",
+    "C": "yes — days per tropical year, with the fossil-coral evidence for longer past years"
+   }
+  },
+  {
+   "item": "h06",
+   "case": "P5-closed-counts",
+   "truth": "POSITIVE",
+   "best_class": "LAW-CANDIDATE",
+   "G": "OUTPUT-OF-HISTORY",
+   "M": "LAW-CANDIDATE",
+   "C": "LAW-CANDIDATE",
+   "majority": "LAW-CANDIDATE",
+   "recognized": {
+    "G": "yes — nuclear magic numbers",
+    "M": "yes — nuclear magic numbers.",
+    "C": "yes — the nuclear magic numbers before the shell model with strong spin–orbit coupling explained them"
+   }
+  },
+  {
+   "item": "h07",
+   "case": "P4-splitting-factor",
+   "truth": "POSITIVE",
+   "best_class": "LAW-CANDIDATE",
+   "G": "LAW-CANDIDATE",
+   "M": "LAW-CANDIDATE",
+   "C": "LAW-CANDIDATE",
+   "majority": "LAW-CANDIDATE",
+   "recognized": {
+    "G": "yes — the sodium D₂ upper-level magnetic splitting factor associated with the anomalous Zeeman effect",
+    "M": "yes — Landé g-factor of the Sodium D-lines (anomalous Zeeman effect).",
+    "C": "yes — the anomalous Zeeman g-factor 4/3 of the sodium D2 upper level, before electron spin"
+   }
+  },
+  {
+   "item": "h08",
+   "case": "N3-g-over-pi2",
+   "truth": "NEGATIVE",
+   "best_class": "CONVENTION-BOUND",
+   "G": "EPOCH-DEPENDENT",
+   "M": "CONVENTION-BOUND",
+   "C": "CONVENTION-BOUND",
+   "majority": "CONVENTION-BOUND",
+   "recognized": {
+    "G": "yes — the numerical resemblance of terrestrial g in metre–second units to π²",
+    "M": "yes — Earth's surface gravity in SI units, mathematically close to pi squared due to the historical seconds-pendulum definition of the metre.",
+    "C": "yes — the g ≈ π² coincidence that comes from the seconds-pendulum origin of the metre"
+   }
+  },
+  {
+   "item": "h09",
+   "case": "N1-orbit-gap-growth",
+   "truth": "NEGATIVE",
+   "best_class": "OUTPUT-OF-HISTORY",
+   "G": "OUTPUT-OF-HISTORY",
+   "M": "OUTPUT-OF-HISTORY",
+   "C": "OUTPUT-OF-HISTORY",
+   "majority": "OUTPUT-OF-HISTORY",
+   "recognized": {
+    "G": "yes — the Titius–Bode planetary-distance rule",
+    "M": "yes — Titius-Bode law of planetary distances.",
+    "C": "yes — the Titius–Bode rule after the discovery of Uranus, during the search for a planet between Mars and Jupiter"
+   }
+  },
+  {
+   "item": "h10",
+   "case": "P3-line-ratio",
+   "truth": "POSITIVE",
+   "best_class": "LAW-CANDIDATE",
+   "G": "LAW-CANDIDATE",
+   "M": "LAW-CANDIDATE",
+   "C": "LAW-CANDIDATE",
+   "majority": "LAW-CANDIDATE",
+   "recognized": {
+    "G": "yes — the hydrogen Hα-to-Hβ wavelength ratio of the visible Balmer lines",
+    "M": "yes — ratio of H-alpha to H-beta wavelengths in the Balmer series of hydrogen.",
+    "C": "yes — the hydrogen Hα/Hβ wavelength ratio (27/20) before the Balmer formula"
+   }
+  },
+  {
+   "item": "h11",
+   "case": "P2-period-size-exponent",
+   "truth": "POSITIVE",
+   "best_class": "LAW-CANDIDATE",
+   "G": "LAW-CANDIDATE",
+   "M": "LAW-CANDIDATE",
+   "C": "LAW-CANDIDATE",
+   "majority": "LAW-CANDIDATE",
+   "recognized": {
+    "G": "yes — Kepler’s third-law period–size exponent",
+    "M": "yes — Kepler's third law of planetary motion.",
+    "C": "yes — Kepler's third law (exponent 3/2) before Newtonian gravitation"
+   }
+  }
+ ],
+ "alpha_disposition_11": 0.8166189111747851,
+ "scorer_sha256": "66a2c7580c30fd58116017fd278a38243e4b928fb498979de4ee3ea9824cc4a5"
+}}

@@ -1,0 +1,3 @@
+# Files over 10 MB ship inside supplement.tar.gz (Zenodo record and GitHub release asset), not in this tree.
+/supplement/story/inputs/gfull_engine_exprs.csv.gz
+/supplement/story/receipts/population.npz

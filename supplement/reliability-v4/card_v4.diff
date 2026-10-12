@@ -1,0 +1,134 @@
+--- receipts/card_v3_base.md	2026-10-08 07:54:48.536521089 +0000
++++ card_v4.md	2026-10-08 07:56:00.641631455 +0000
+@@ -1,7 +1,7 @@
+ # Procedure card — what can a measured quantity tell you?
+ 
+ ```text
+-version: card v3 (P1.5 external-test; frozen protocol 2026-10-07; seal date set by the builder)
++version: card v4 (P1.5 external-test; frozen protocol 2026-10-08; seal date set by the builder)
+ what this is: a fixed, self-contained decision procedure for sorting a measured physical quantity into
+               one of seven dispositions. Extracted from a longer methods document; nothing outside this
+               card is needed to run it.
+@@ -10,7 +10,8 @@
+ what you return: for every dossier, the record described in "Recording your verdict" at the end.
+ rules of engagement: use only the dossier and this card. Do not look anything up. If a dossier lacks a
+               fact you need, say so in the justification and decide on what it contains. Give every item
+-              exactly one disposition. Do not skip items.
++              exactly one disposition. Do not skip items. If a dossier's target bundles two or more
++              quantities, judge the first-named one and name the others in the justification.
+ ```
+ 
+ ## What the procedure is for
+@@ -120,18 +121,40 @@
+    CONVENTION-BOUND (`FAIL-UNIT`). A named combination of constants fixed by a defining identity
+    (Bohr radius, classical electron radius, Compton wavelength and the like) also stops here:
+    its ratio to its building blocks holds by definition; the physics lives in the building blocks.
++   A value that is exact by definition relative to a nominal reference stops here. A measured ratio to a
++   physical object that a convention chose as the reference (a mass relative to the mass of a defined atom, a
++   frequency relative to a defined transition) does NOT stop here for that reason: the convention fixes the
++   unit, not the ratio. A stop under this rule records `natural_form: none — rule 1: <defined unit, nominal
++   reference, tautology or named combination>`.
+ 2. Otherwise, a documented change of the target with epoch, observer frame or time-slice stops here as
+    EPOCH-DEPENDENT (`FAIL-EPOCH`); coordinate corrections used to infer a fixed relational target are part of its
+-   readout, not a change of the target.
+-3. Otherwise, accept a target that is dimensionless as stated. For a target carrying units, you MAY supply
+-   its standard natural dimensionless form from general physics knowledge even when the dossier does not
+-   state it; this permission to use recalled physics overrides the dossier-only rule for this purpose.
+-   If you know an admissible standard form, use and name it; MAY is permission, not a choice to refuse
+-   a known form. State the physical relation that makes the distinct reference natural; do not invent
+-   an arbitrary same-unit comparison. The reference must be a different physical quantity related to the target by
+-   physics, not by the dossier wording; it may itself be measured. Sharing units is not, by itself, a relation.
+-   The reference must not be the same quantity under another name or projection (two spacings of one
+-   crystal lattice, one length in two units). No such form → CONVENTION-BOUND (`FAIL-UNIT`).
++   readout, not a change of the target. A present-epoch amplitude — today's value of a quantity that evolves
++   (a present density fraction, a present temperature, a present expansion or orbital rate) — stops here. A value
++   frozen at a past event (the redshift of an event, a ratio fixed at a decoupling) is not epoch-dependent: it
++   passes step 1 and is decided at step 2.
++3. Otherwise, a target that is dimensionless as stated passes (`natural_form: as stated`). For a target that
++   carries units you MUST attempt its standard natural dimensionless form from general physics knowledge, even
++   when the dossier does not state it (this permission to recall physics overrides the dossier-only rule for this
++   purpose), and record it in the field `natural_form:` as the ratio, the reference quantity, and the physical
++   relation that makes that reference natural. The reference must be a different physical quantity related to the
++   target by physics, not by the dossier wording; it may itself be measured. Sharing units is not, by itself, a
++   relation. The reference must not be the same quantity under another name or projection (two spacings of one
++   crystal lattice, one length in two units). Then run the remaining steps on that form. Only if no such form
++   exists do you record `natural_form: none — <the physical reason no relation exists>` and stop as
++   CONVENTION-BOUND (`FAIL-UNIT`). That a number carries units, or that its numerical value depends on the unit
++   system, is NOT such a reason: every unit-bearing quantity has that property, and this rule exists to remove it.
++
++Standard natural references (use the one that belongs to the physics that sets the quantity; another admissible
++one is fine if you name the relation):
++
++| Domain | Natural references |
++|---|---|
++| atomic, molecular, chemical, materials | atomic units (electron mass, Bohr radius, Hartree energy, Bohr magneton); the atomic mass unit or the atom's own mass for masses and densities |
++| nuclear | nucleon mass, nuclear magneton, the nucleon size scale (nucleon Compton wavelength), binding energy per nucleon |
++| particle physics | another mass, width or coupling of the same theory (a hadron mass over the proton mass; a width over its particle's mass) |
++| gravitating bodies, planets, stars | a mass, size or period of the same system (planet over star mass, radius over orbit radius), or the number of nucleons it contains |
++| cosmology | density fractions; ratios to the Hubble scale or to the radiation temperature — then apply rule 2 |
++| temperatures | the energy scale that sets them (thermal energy over a binding, radiative or orbital energy of the same system) |
+ 
+ A quantity that changes with the observer's frame, epoch, or chosen time-slice is a projection by
+ construction — that is what a projection is. If the quantity (or its natural dimensionless form) drifts with
+@@ -150,8 +173,9 @@
+ This step alone removes a large fraction of the numbers that get called fundamental in popular accounts.
+ 
+ Verdict tokens: `PASS` (dimensionless and frame-independent, either as stated or after forming the natural
+-dimensionless version — name it) · `FAIL-UNIT` (nothing beyond the reference choice) · `FAIL-EPOCH` (drifts
+-with epoch, frame or time-slice).
++dimensionless version — name it in `natural_form`) · `FAIL-UNIT` (nothing beyond the reference choice; on a
++unit-bearing target only with `natural_form: none — <reason>`) · `FAIL-EPOCH` (drifts with epoch, frame or
++time-slice).
+ 
+ ## Step 2 — Is it static, or is it the output of a history?
+ 
+@@ -168,13 +192,18 @@
+ takes priority over the general dynamical-computation examples above. HISTORY requires a contingent process
+ outcome, or a separate variational or non-perturbative solution for a bound state, a confined spectrum, a broken
+ phase or a transition. The absence of a known derivation does not by itself make a quantity HISTORY.
++Fixed-point and universality data — critical exponents, universal amplitude ratios — are STATIC even when they are
++computed non-perturbatively: they are properties of a fixed point, not outcomes of a contingent process; step 5
++decides whether an established universality class accounts for them.
+ 
+ A value computed by an established formula whose inputs include a history-class quantity (hadronic
+ matrix element, decay constant, bag parameter, form factor, confinement scale, a material's electron
+ density or band structure) inherits HISTORY when that input sets the target value; an input that
+ cancels exactly from the target is not value-setting. Free parameters of the current standard theory — masses,
+ couplings and mixing parameters that enter as inputs — are HISTORY: their values are set by dynamics
+-not yet bridged. These two rules take priority over the STATIC closed-form/perturbative rule above.
++not yet bridged. They stay HISTORY until a structure or dynamics that derives them is proposed with a forward map;
++name that bridge in `reopen_condition`. These two rules take priority over the STATIC closed-form/perturbative rule
++above.
+ 
+ Worked failures from the originating programme's catalogue (cosmological): the baryon-to-photon ratio
+ (baryogenesis plus nucleosynthesis dynamics); the acoustic scale, which is a ratio of a sound horizon to an
+@@ -255,6 +284,11 @@
+ If an established theorem fully accounts for the value, SELECTED-ESTABLISHED takes precedence
+ over CONSTANT; constancy alone does not turn an already explained value into a new prediction.
+ 
++What CONSTANT means when no theory addresses the value: a static, dimensionless, frame-free value that no
++admissible completion of current theory treats as an adjustable input, and that none accounts for, is CONSTANT
++across F — nothing in F moves it. VARIES requires that the admissible family actually contains completions with
++different values of X.
++
+ Dependence on a named postulate is an orthogonal axis. Any of these verdicts may additionally be
+ conditional on a postulate, and must say which.
+ 
+@@ -386,6 +420,7 @@
+ item: qNN
+ step0: PASS | FAIL
+ step1: PASS | FAIL-UNIT | FAIL-EPOCH | NOT-REACHED
++natural_form: as stated | <ratio; reference quantity; physical relation> | none — <physical reason> | none — rule 1: <which> | NOT-REACHED
+ step2: STATIC | HISTORY | NOT-REACHED
+ step4: REQUIRED | VACUOUS | NOT-APPLICABLE
+ step5: CONSTANT | SELECTED-NEW | SELECTED-ESTABLISHED | VARIES | NOT-REACHED
+@@ -399,5 +434,7 @@
+ Consistency rules: a `FAIL` at step 0 → disposition NOT-YET-A-QUANTITY and later steps NOT-REACHED (step 4
+ NOT-APPLICABLE). `FAIL-UNIT` → CONVENTION-BOUND; `FAIL-EPOCH` → EPOCH-DEPENDENT. `HISTORY` →
+ OUTPUT-OF-HISTORY. `CONSTANT` or `SELECTED-NEW` → LAW-CANDIDATE; `SELECTED-ESTABLISHED` →
+-ALREADY-GOVERNED; `VARIES` → MODEL-CHOICE. If you form a natural dimensionless version at step 1, name it in
+-the justification. Do not leave any field blank.
++ALREADY-GOVERNED; `VARIES` → MODEL-CHOICE. `natural_form`: `as stated` for a dimensionless target; for a
++unit-bearing target the ratio + reference + relation you used, or `none — <physical reason>` / `none — rule 1:
++<which>` (the only ways a unit-bearing target may get `FAIL-UNIT`); `NOT-REACHED` after a step-0 `FAIL`, and
++after a `FAIL-EPOCH` stop unless you formed a natural form. Do not leave any field blank.

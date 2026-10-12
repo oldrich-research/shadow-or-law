@@ -1,0 +1,99 @@
+{
+ "lineup_rank": 20.5,
+ "ties": 39,
+ "retest_hits": 6,
+ "routes": {
+  "index": 180,
+  "audits": 2,
+  "routes": 178,
+  "empty": 15,
+  "nonempty": 163,
+  "raw_leader": 13,
+  "guardrail": 9,
+  "dates": [
+   "2026-06-23",
+   "2026-06-25"
+  ]
+ },
+ "census_rows": 74,
+ "v3_alpha": "189/1979",
+ "census_alpha": "4467/6847",
+ "reliability": {
+  "v3_alpha": 0.0955,
+  "v3_pair_alpha_C_G": 0.927,
+  "round2_alpha": "8781/22564"
+ },
+ "census": {
+  "adjudicated": {
+   "ALREADY-GOVERNED": 11,
+   "OUTPUT-OF-HISTORY": 40,
+   "EPOCH-DEPENDENT": 10,
+   "MODEL-CHOICE": 2,
+   "NOT-YET-A-QUANTITY": 8,
+   "CONVENTION-BOUND": 2,
+   "LAW-CANDIDATE": 1
+  },
+  "historical": {
+   "Governed": 6,
+   "History": 44,
+   "Retained": 13,
+   "Convention": 3,
+   "Unmapped": 3,
+   "Epoch": 2,
+   "Model": 3
+  },
+  "adjudication_outcomes": {
+   "AMBIGUOUS": 4,
+   "CENSUS-FAULTED": 21,
+   "DOSSIER-DEFECT": 1
+  },
+  "alpha_47": 0.6524,
+  "alpha_74": 0.6751
+ },
+ "lineup": {
+  "G": {
+   "flagship_score": 5,
+   "mid_rank": 20.5,
+   "decoys_tied": 39
+  },
+  "M": {
+   "flagship_score": 0,
+   "mid_rank": 20.5,
+   "decoys_tied": 39
+  },
+  "C": {
+   "flagship_score": 6,
+   "mid_rank": 20.5,
+   "decoys_tied": 39
+  }
+ },
+ "route_recount": {
+  "index": 180,
+  "audits": 2,
+  "routes": 178,
+  "empty": 15,
+  "nonempty": 163,
+  "raw_leader": 13,
+  "guardrail": 9,
+  "dates": [
+   "2026-06-23",
+   "2026-06-25"
+  ]
+ },
+ "story": {
+  "empirical_percent": [
+   0.805,
+   5.39,
+   8.674
+  ],
+  "analytic_percent": [
+   1.007,
+   4.99985,
+   8.02194
+  ],
+  "cp95_medium_percent": [
+   4.34,
+   6.61
+  ]
+ }
+}

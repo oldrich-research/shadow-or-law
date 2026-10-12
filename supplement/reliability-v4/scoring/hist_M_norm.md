@@ -1,0 +1,153 @@
+item: h01
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: STATIC
+step4: REQUIRED
+step5: CONSTANT
+disposition: LAW-CANDIDATE
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The combining volume ratio is a dimensionless constant that no current theory explains but which appears to be structurally forced to a simple rational.
+recognized: yes — Gay-Lussac's law of combining volumes for hydrogen and oxygen.
+
+item: h02
+step0: PASS
+step1: FAIL-EPOCH
+natural_form: as stated
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: EPOCH-DEPENDENT
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The ratio of apparent angular diameters depends on the Earth-Moon distance, which is changing over time due to tidal friction.
+recognized: yes — ratio of apparent angular diameters of the Moon and the Sun.
+
+item: h03
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: STATIC
+step4: NOT-APPLICABLE
+step5: CONSTANT
+disposition: LAW-CANDIDATE
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The anomalous magnetic moment is a dimensionless static property of the electron that no current finite theory computes but could be structurally forced.
+recognized: yes — electron anomalous magnetic moment (Schwinger value).
+
+item: h04
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: a structure or dynamics that derives the solar cycle duration from first principles is proposed with a forward map
+justification: The solar magnetic cycle is the ongoing output of complex fluid and magnetic dynamics in the Sun, not a static structural law.
+recognized: yes — ratio of the solar sunspot cycle length to Jupiter's orbital period.
+
+item: h05
+step0: PASS
+step1: FAIL-EPOCH
+natural_form: as stated
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: EPOCH-DEPENDENT
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The number of days in a year decreases over time as tidal friction slows the Earth's rotation.
+recognized: yes — number of days in a year on Earth.
+
+item: h06
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: STATIC
+step4: VACUOUS
+step5: CONSTANT
+disposition: LAW-CANDIDATE
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The nuclear magic numbers are discrete exact counts that no current theory fully accounts for but which appear to be structurally fixed by an undiscovered nuclear law.
+recognized: yes — nuclear magic numbers.
+
+item: h07
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: STATIC
+step4: REQUIRED
+step5: CONSTANT
+disposition: LAW-CANDIDATE
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The magnetic splitting factor is a dimensionless constant that no current theory accounts for but which appears to be structurally forced to a simple fraction.
+recognized: yes — Landé g-factor of the Sodium D-lines (anomalous Zeeman effect).
+
+item: h08
+step0: PASS
+step1: FAIL-UNIT
+natural_form: none — rule 1: nominal reference
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: CONVENTION-BOUND
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The numerical value is an artifact of the historical definition of the metre via the seconds pendulum, not a natural fundamental property.
+recognized: yes — Earth's surface gravity in SI units, mathematically close to pi squared due to the historical seconds-pendulum definition of the metre.
+
+item: h09
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: a structural law is proposed that fixes planetary orbits independent of initial formation conditions
+justification: The planetary orbital distances are contingent initial conditions established during the dynamical formation of the solar system.
+recognized: yes — Titius-Bode law of planetary distances.
+
+item: h10
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: STATIC
+step4: REQUIRED
+step5: CONSTANT
+disposition: LAW-CANDIDATE
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The wavelength ratio is a dimensionless static constant of the atom that no current theory accounts for but could be governed by an undiscovered law.
+recognized: yes — ratio of H-alpha to H-beta wavelengths in the Balmer series of hydrogen.
+
+item: h11
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: STATIC
+step4: REQUIRED
+step5: CONSTANT
+disposition: LAW-CANDIDATE
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The period-distance exponent is a dimensionless constant applying to all planets that could be structurally forced by an undiscovered physical law.
+recognized: yes — Kepler's third law of planetary motion.

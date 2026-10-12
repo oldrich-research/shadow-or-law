@@ -1,0 +1,432 @@
+```text
+item: q34
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: An atomic mass is a dynamics observable formed by constituent masses and non-perturbative bound-state binding energies.
+
+item: q35
+step0: PASS
+step1: PASS
+natural_form: ratio to proton mass; proton mass; hadron spectrum mass scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A meson mass is a dynamics observable that emerges from non-perturbative QCD confinement and bound-state formation.
+
+item: q36
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: An atomic mass is a dynamics observable formed by constituent masses and non-perturbative bound-state binding energies.
+
+item: q37
+step0: PASS
+step1: PASS
+natural_form: ratio to atom mass per Bohr radius cubed; atom mass per Bohr radius cubed; atomic packing scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The mass density of a bulk elemental solid is the endpoint of a multi-atom binding and crystalline packing computation.
+
+item: q38
+step0: PASS
+step1: PASS
+natural_form: ratio to nucleon Compton wavelength; nucleon Compton wavelength; nuclear size scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A bound coherent neutron scattering length is the outcome of non-perturbative strong-force dynamics in a complex nucleus.
+
+item: q39
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: STATIC
+step4: NOT-APPLICABLE
+step5: SELECTED-ESTABLISHED
+disposition: ALREADY-GOVERNED
+confidence: high
+shared_driver: q49
+reopen_condition: none stated
+justification: The Z pole asymmetry is an established perturbative prediction of the Standard Model from independently available inputs.
+
+item: q40
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: STATIC
+step4: VACUOUS
+step5: SELECTED-ESTABLISHED
+disposition: ALREADY-GOVERNED
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The dilute-gas heat-capacity ratio is already governed by the exact rational equipartition limit for three translational degrees of freedom.
+
+item: q41
+step0: PASS
+step1: PASS
+natural_form: ratio to nucleon Compton wavelength; nucleon Compton wavelength; nuclear size scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A bound coherent neutron scattering length is the outcome of non-perturbative strong-force dynamics in a complex nucleus.
+
+item: q42
+step0: PASS
+step1: PASS
+natural_form: ratio to proton mass; proton mass; hadron spectrum mass scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A meson mass is a dynamics observable that emerges from non-perturbative QCD confinement and bound-state formation.
+
+item: q43
+step0: PASS
+step1: PASS
+natural_form: ratio to proton mass; proton mass; hadron spectrum mass scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A meson mass is a dynamics observable that emerges from non-perturbative QCD confinement and bound-state formation.
+
+item: q44
+step0: PASS
+step1: PASS
+natural_form: ratio to proton mass; proton mass; hadron spectrum mass scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A meson mass is a dynamics observable that emerges from non-perturbative QCD confinement and bound-state formation.
+
+item: q45
+step0: PASS
+step1: PASS
+natural_form: ratio to Hartree energy; Hartree energy; atomic binding energy scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The mean excitation energy of an elemental medium is the result of a multi-electron bound-state and band-structure computation.
+
+item: q46
+step0: PASS
+step1: FAIL-EPOCH
+natural_form: as stated
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: EPOCH-DEPENDENT
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: Planetary obliquity is an epoch-dependent value that changes over time due to torques and precession.
+
+item: q47
+step0: PASS
+step1: PASS
+natural_form: ratio to nucleon Compton wavelength; nucleon Compton wavelength; nuclear size scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A bound coherent neutron scattering length is the outcome of non-perturbative strong-force dynamics in a complex nucleus.
+
+item: q48
+step0: PASS
+step1: PASS
+natural_form: ratio to nucleon Compton wavelength; nucleon Compton wavelength; nuclear size scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A bound coherent neutron scattering length is the outcome of non-perturbative strong-force dynamics in a complex nucleus.
+
+item: q49
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: STATIC
+step4: NOT-APPLICABLE
+step5: SELECTED-ESTABLISHED
+disposition: ALREADY-GOVERNED
+confidence: high
+shared_driver: q39
+reopen_condition: none stated
+justification: The Z pole asymmetry is an established perturbative prediction of the Standard Model from independently available inputs.
+
+item: q50
+step0: PASS
+step1: PASS
+natural_form: ratio to proton mass; proton mass; nuclear spectrum mass scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The triton mass is the endpoint of a non-perturbative solution for a nuclear bound state.
+
+item: q51
+step0: PASS
+step1: FAIL-UNIT
+natural_form: none — rule 1: named combination
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: CONVENTION-BOUND
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The atomic unit of electric quadrupole moment is a named combination of fundamental constants fixed by a defining identity.
+
+item: q52
+step0: PASS
+step1: FAIL-EPOCH
+natural_form: as stated
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: EPOCH-DEPENDENT
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: Planetary obliquity is an epoch-dependent value that changes over time due to torques and precession.
+
+item: q53
+step0: PASS
+step1: FAIL-EPOCH
+natural_form: as stated
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: EPOCH-DEPENDENT
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The orbital longitude at a specified epoch is an epoch-defined reading of an orbiting body that depends on the chosen time-slice.
+
+item: q54
+step0: PASS
+step1: PASS
+natural_form: ratio to proton mass; proton mass; hadron spectrum mass scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A meson mass is a dynamics observable that emerges from non-perturbative QCD confinement and bound-state formation.
+
+item: q55
+step0: PASS
+step1: FAIL-UNIT
+natural_form: none — rule 1: named combination
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: CONVENTION-BOUND
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The atomic unit of electric field gradient is a named combination of fundamental constants fixed by a defining identity.
+
+item: q56
+step0: FAIL
+step1: NOT-REACHED
+natural_form: NOT-REACHED
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: NOT-YET-A-QUANTITY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The absolute scalar potential without a reference has no corresponding physical readout operation that measures it.
+
+item: q57
+step0: PASS
+step1: PASS
+natural_form: ratio to Hartree energy; Hartree energy; atomic binding energy scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The mean excitation energy of an elemental medium is the result of a multi-electron bound-state and band-structure computation.
+
+item: q58
+step0: PASS
+step1: FAIL-EPOCH
+natural_form: as stated
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: EPOCH-DEPENDENT
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: Planetary obliquity is an epoch-dependent value that changes over time due to torques and precession.
+
+item: q59
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: An atomic mass is a dynamics observable formed by constituent masses and non-perturbative bound-state binding energies.
+
+item: q60
+step0: PASS
+step1: FAIL-EPOCH
+natural_form: as stated
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: EPOCH-DEPENDENT
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: Planetary obliquity is an epoch-dependent value that changes over time due to torques and precession.
+
+item: q61
+step0: PASS
+step1: PASS
+natural_form: ratio to proton mass; proton mass; nuclear spectrum mass scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The alpha particle mass is the endpoint of a non-perturbative solution for a nuclear bound state.
+
+item: q62
+step0: PASS
+step1: PASS
+natural_form: ratio to nucleon Compton wavelength; nucleon Compton wavelength; nuclear size scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: A bound coherent neutron scattering length is the outcome of non-perturbative strong-force dynamics in a complex nucleus.
+
+item: q63
+step0: PASS
+step1: FAIL-UNIT
+natural_form: none — rule 1: nominal reference value
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: CONVENTION-BOUND
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The standard formation enthalpy of an element in its reference state is an assigned exact baseline defined by convention.
+
+item: q64
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The screened scalar amplitude is a dynamics observable combining a primordial fluctuation amplitude and an integrated reionization history.
+
+item: q65
+step0: PASS
+step1: PASS
+natural_form: ratio to Hartree energy; Hartree energy; atomic binding energy scale
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The mean excitation energy of an elemental medium is the result of a multi-electron bound-state and band-structure computation.
+
+item: q66
+step0: PASS
+step1: FAIL-EPOCH
+natural_form: as stated
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: EPOCH-DEPENDENT
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: Planetary orbital eccentricity is an epoch-dependent value that drifts over time due to solar-system N-body perturbations.
+```
+ANNOTATION-COMPLETE
+

@@ -1,0 +1,107 @@
+Part 1
+
+R1. A measured ratio to a conventionally chosen reference object does not fail step 1 because the convention only defines the unit, but if a quantity's exact value is defined relative to a nominal reference or it fails under rule 1, you must record a specific string indicating the reason for the stop. unclear: none.
+R2. A quantity that is currently evolving and represents a present-epoch amplitude fails at this step, whereas a quantity whose value was permanently frozen during a past historical event passes this step to be evaluated later. unclear: none.
+R3. For any target carrying units, you are required to use external physics knowledge to construct its natural dimensionless ratio with a physically related reference quantity, and you may only fail it as convention-bound if you can state a physical reason why no such relation exists. unclear: none.
+R4. Properties like critical exponents and universal amplitude ratios are classified as static because they describe fixed points rather than contingent historical outcomes, leaving their underlying explanation to be resolved in step 5. unclear: none.
+R5. Free parameters remain classified as history until a new structure or dynamics is proposed that successfully maps forward to derive them, and this potential bridge must be documented in the reopen condition. unclear: none.
+R6. When a dossier presents multiple quantities bundled together, you must formally evaluate only the first one listed and merely mention the others in your justification. unclear: none.
+R7. A value is considered constant if it is not an adjustable input in any valid theoretical completion and nothing in those theories moves it, whereas it is only considered varying if the family of valid theories actually produces different values for it. unclear: none.
+R8. Step 1 evaluates whether a quantity is dimensionless and independent of both the observer's frame and the current epoch, requiring unit-bearing quantities to be converted into natural dimensionless ratios and rejecting those that rely purely on human convention or drift over time. unclear: none.
+R9. Step 2 determines whether a quantity is fundamentally fixed by a static structural rule or if it is instead a dynamics observable resulting from a contingent historical process or a non-perturbative solution. unclear: none.
+R10. Step 5 analyzes whether a statically derived quantity is genuinely constant across all valid theoretical completions, strictly determined by an established or newly proposed principle, or merely a free parameter that varies between models. unclear: none.
+
+Part 2
+
+```text
+item: p01
+step0: PASS
+step1: FAIL-UNIT
+natural_form: none — rule 1: named combination
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: CONVENTION-BOUND
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The thermal de Broglie wavelength is a named combination of constants fixed by a defining identity, so its ratio to its building blocks holds by definition.
+```
+
+```text
+item: p02
+step0: PASS
+step1: PASS
+natural_form: ratio to the Hartree energy; Hartree energy; atomic units
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The indirect energy gap is a feature of the material's band structure, which makes it the output of a history-class dynamical computation.
+```
+
+```text
+item: p03
+step0: PASS
+step1: PASS
+natural_form: as stated
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The branching fraction's value is set by the B decay constant, which is an input that carries a history-class confinement dynamics origin.
+```
+
+```text
+item: p04
+step0: PASS
+step1: PASS
+natural_form: ratio to the electroweak vacuum scale; electroweak vacuum scale; Yukawa relation
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: a structure or dynamics that derives them is proposed with a forward map
+justification: The charm-quark mass is a free parameter of the current standard theory that acts as an input, making it a history-class outcome of dynamics not yet bridged.
+```
+
+```text
+item: p05
+step0: FAIL
+step1: NOT-REACHED
+natural_form: NOT-REACHED
+step2: NOT-REACHED
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: NOT-YET-A-QUANTITY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The target is a pure mathematical constant based on an analytic limit whose claimed infinite-nuclear-mass structure does not actually exist on the physical hydrogen carrier.
+```
+
+```text
+item: p06
+step0: PASS
+step1: PASS
+natural_form: ratio to the Bohr radius; Bohr radius; atomic units
+step2: HISTORY
+step4: NOT-APPLICABLE
+step5: NOT-REACHED
+disposition: OUTPUT-OF-HISTORY
+confidence: high
+shared_driver: none
+reopen_condition: none stated
+justification: The lattice spacing is the outcome of a dynamical computation solving for a bound state and broken translational phase, rather than a static structurally forced constant.
+```
+
+PRETEST-COMPLETE
+

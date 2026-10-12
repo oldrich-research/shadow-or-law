@@ -1,0 +1,72 @@
+{
+ "alpha_exact": {
+  "disposition": "1",
+  "step1": "1",
+  "step2": "1",
+  "step5": "1"
+ },
+ "step0": {
+  "observed_agreement": [
+   180,
+   180
+  ],
+  "alpha": "undefined (one category)"
+ },
+ "unanimity": [
+  60,
+  60
+ ],
+ "controls": {
+  "G": [
+   6,
+   6
+  ],
+  "M": [
+   6,
+   6
+  ],
+  "C": [
+   6,
+   6
+  ]
+ },
+ "distribution": {
+  "LAW-CANDIDATE": 0,
+  "OUTPUT-OF-HISTORY": 41,
+  "MODEL-CHOICE": 0,
+  "NOT-YET-A-QUANTITY": 0,
+  "CONVENTION-BOUND": 6,
+  "EPOCH-DEPENDENT": 10,
+  "ALREADY-GOVERNED": 3
+ },
+ "historical": {
+  "S": [
+   6,
+   6
+  ],
+  "F": [
+   0,
+   5
+  ],
+  "per_lane": {
+   "G": {
+    "S": 5,
+    "F": 0
+   },
+   "M": {
+    "S": 6,
+    "F": 0
+   },
+   "C": {
+    "S": 6,
+    "F": 0
+   }
+  },
+  "recognized": {
+   "G": 11,
+   "M": 11,
+   "C": 11
+  }
+ },
+ "committed_metrics_equal": true
+}

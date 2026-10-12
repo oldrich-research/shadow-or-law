@@ -1,0 +1,75 @@
+id	row_name	reference_disposition	basis	atlas_line	ii06_group
+c01	3D Ising / Wilson-Fisher exponents	ALREADY-GOVERNED	CENSUS_ARM.md Materials frozen mapping	103	Different theorem
+c02	Top Yukawa / top mass	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	73	Output of a history
+c03	θ_QCD / strong-CP angle	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	74	Output of a history
+c04	Scalar amplitude A_s	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	96	Output of a history
+c05	Neutrino = d6 assignment, Σm_ν	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	43	non-refused
+c06	α_s(M_Z²)	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	56	Output of a history
+c07	Density fractions Ω_m0, Ω_Λ0, z_eq	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	78	Output of a history
+c08	Ω_DM/Ω_b	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	77	Output of a history
+c09	m_e/M_Pl = √α_G	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	34	non-refused
+c10	CMB temperature T_CMB0	CONVENTION-BOUND	CENSUS_ARM.md Materials frozen mapping	88	Convention-bound
+c11	BBN light abundances Yp, D/H, Li/H	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	87	Output of a history
+c12	Free neutron lifetime	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	68	Output of a history
+c13	MSS chaos bound	ALREADY-GOVERNED	CENSUS_ARM.md Materials frozen mapping	53	Different theorem
+c14	Deuteron magnetic moment	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	63	Output of a history
+c15	ω_b, ω_c, ω_m	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	83	Output of a history
+c16	Λ_QCD / Λ_5	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	57	Output of a history
+c17	CMB lensing amplitude A_L	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	94	Output of a history
+c18	Muon anomalous moment, a_μ	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	59	Output of a history
+c19	Acoustic scale θ_*, l_A	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	93	Output of a history
+c20	Quark mass ratios	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	55	Output of a history
+c21	Z/A as gravitational-source reading	MODEL-CHOICE	CENSUS_ARM.md Materials frozen mapping	35	non-refused
+c22	BAO sound horizon r_drag	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	97	Output of a history
+c23	Feigenbaum constants δ, α	ALREADY-GOVERNED	CENSUS_ARM.md Materials frozen mapping	104	Different theorem
+c24	Reionization optical depth τ	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	95	Output of a history
+c25	CKM angles / Cabibbo angle	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	75	Output of a history
+c26	N_eff, N_gen=3, ΔN_eff	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	82	Output of a history
+c27	Deuteron/alpha binding energies	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	69	Output of a history
+c28	Electron anomalous moment, a_e	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	58	Output of a history
+c29	Genetic code 64→20+STOP orbit quotient	NOT-YET-A-QUANTITY	CENSUS_ARM.md Materials frozen mapping	101	No carrier
+c30	m_p/m_e	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	61	Output of a history
+c31	Bekenstein-Hawking coefficient, S=A/4	ALREADY-GOVERNED	CENSUS_ARM.md Materials frozen mapping	50	Different theorem
+c32	Spectral running dn_s/dlnk	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	90	Output of a history
+c33	Higgs mass / m_H/v / λ_H	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	72	Output of a history
+c34	SI defining constants / quantum-electrical identities	CONVENTION-BOUND	CENSUS_ARM.md Materials frozen mapping	39	Convention-bound
+c35	Fermi constant / EW vev, G_F, v	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	71	Output of a history
+c36	KSS shear-viscosity ratio	ALREADY-GOVERNED	CENSUS_ARM.md Materials frozen mapping	52	Different theorem
+c37	Universe age t0, t0/t_Pl	EPOCH-DEPENDENT	CENSUS_ARM.md Materials frozen mapping	100	Epoch-dependent
+c38	M_Pl	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	38	non-refused
+c39	Proton/deuteron/alpha charge radii	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	66	Output of a history
+c40	Deuteron electric quadrupole moment	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	64	Output of a history
+c41	Hubble constant H0	EPOCH-DEPENDENT	CENSUS_ARM.md Materials frozen mapping	99	Epoch-dependent
+c42	Growth amplitude σ8, S8	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	98	Output of a history
+c43	Matter-radiation equality z_eq, a_eq, k_eq	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	85	Output of a history
+c44	α_G flagship formula	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	33	non-refused
+c45	d7/d8 dark-sector assignments	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	46	non-refused
+c46	Dark-energy equation of state w, w0, wa	MODEL-CHOICE	CENSUS_ARM.md Materials frozen mapping	80	Model choice
+c47	Spectral index n_s / tilt	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	89	Output of a history
+c48	P2-Chem GMTKN55 residuals	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	105	non-refused
+c49	Chaitin's Ω_U	NOT-YET-A-QUANTITY	CENSUS_ARM.md Materials frozen mapping	41	No carrier
+c50	Material T_c/E_F, Homes/Uemura ratios	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	106	Output of a history
+c51	Baryon-to-photon ratio η	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	81	Output of a history
+c52	Tensor-to-scalar ratio r	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	92	Output of a history
+c53	alpha	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	37	non-refused
+c54	Photon number density / entropy-per-photon	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	84	Output of a history
+c55	Tau anomalous moment, a_τ	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	60	Output of a history
+c56	δ_CP=0/180, J_CP=0	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	47	non-refused
+c57	Non-Gaussianity f_NL	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	91	Output of a history
+c58	PMNS angles / TBM texture	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	76	Output of a history
+c59	Dark-energy scale ρ_Λ^(1/4)	MODEL-CHOICE	CENSUS_ARM.md Materials frozen mapping	102	Model choice
+c60	CMB damping scale k_D	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	86	Output of a history
+c61	Neutron-proton mass splitting	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	67	Output of a history
+c62	G-alpha co-variation	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	36	non-refused
+c63	d4 rung occupancy	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	45	Output of a history
+c64	sin²θ_W, M_W/M_Z	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	70	Output of a history
+c65	m_ββ envelope	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	44	non-refused
+c66	Charged-lepton Koide relation, Q	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	54	Output of a history
+c67	Proton/neutron magnetic moments	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	62	Output of a history
+c68	Triton/helion magnetic moments	OUTPUT-OF-HISTORY	CENSUS_ARM.md Materials frozen mapping	65	Output of a history
+c69	R_T(5)=22/105, R_J(5)=16/15	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	48	non-refused
+c70	Pure mathematical constants	NOT-YET-A-QUANTITY	CENSUS_ARM.md Materials frozen mapping	40	No carrier
+c71	Spatial curvature Ω_K	MODEL-CHOICE	CENSUS_ARM.md Materials frozen mapping	79	Model choice
+c72	CHSH / Tsirelson bound, 2√2	ALREADY-GOVERNED	CENSUS_ARM.md Materials frozen mapping	49	Different theorem
+c73	Ladder template exponent	LAW-CANDIDATE	CENSUS_ARM.md Materials frozen mapping	42	non-refused
+c74	Bekenstein bound coefficient, 2π	CONVENTION-BOUND	CENSUS_ARM.md Materials frozen mapping	51	Convention-bound

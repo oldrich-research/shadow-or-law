@@ -1,0 +1,22 @@
+{
+  "atomic unit of 1st hyperpolarizability": {
+    "definition": "Atomic-unit conversion scale for the first electric hyperpolarizability, e^3 a_0^3/E_h^2, which multiplies the coefficient of the quadratic electric-field term in induced dipole moment.",
+    "context": "Nonlinear electric response expands the induced dipole moment in powers of applied electric field. Atomic calculations express the quadratic coefficient in this scale using elementary charge e, Bohr length a_0 and Hartree energy E_h. The CODATA entry tabulates the scale in SI, not the nonlinear response of a particular atom."
+  },
+  "atomic unit of 2nd hyperpolarizability": {
+    "definition": "Atomic-unit conversion scale for the second electric hyperpolarizability, e^4 a_0^4/E_h^3, which multiplies the coefficient of the cubic electric-field term in induced dipole moment.",
+    "context": "The cubic term in an atom's induced dipole expansion is expressed in this scale when atomic units are used. The conversion combines elementary charge e, Bohr length a_0 and Hartree energy E_h. The entry is the scale in SI, not the cubic-response coefficient of a specific atomic species."
+  },
+  "atomic unit of magnetizability": {
+    "definition": "Atomic-unit conversion scale e^2 a_0^2/m_e for magnetizability, the coefficient relating an induced magnetic moment to the applied magnetic field.",
+    "context": "Atomic magnetic-response calculations use elementary charge, Bohr length and electron mass to express magnetizability coefficients. CODATA tabulates the SI conversion scale in joules per squared tesla. Magnetic response of a particular atom requires its own coefficient in addition to this scale."
+  },
+  "helion shielding shift": {
+    "definition": "Fractional electronic shielding correction sigma_h = 1 - mu_h_prime/mu_h relating the helium-3 atomic nuclear magnetic moment to the bare helion magnetic moment.",
+    "context": "The two-electron helium environment modifies the magnetic field experienced by its nucleus. Nuclear magnetic resonance comparisons and electromagnetic bound-state calculations connect the shielded and bare moments. The quoted target is the fractional correction, not either magnetic moment separately."
+  },
+  "shielded helion gyromag. ratio": {
+    "definition": "Magnitude of the helium-3 nuclear angular precession frequency per external magnetic field in the shielded atomic environment, gamma_h_prime = 2|mu_h_prime|/hbar.",
+    "context": "Helium-3 nuclear magnetic resonance detects the nuclear spin precession frequency in a calibrated magnetic field. Atomic electronic shielding changes the nuclear response compared with the bare nucleus. CODATA combines frequency and magnetic-moment data; the displayed ratio uses angular frequency rather than cycles per second."
+  }
+}

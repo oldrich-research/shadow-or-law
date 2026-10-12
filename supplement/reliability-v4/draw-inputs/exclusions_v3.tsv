@@ -1,0 +1,330 @@
+pool_name	excluded_name	source_file	line	basis
+	SI defining constants c, h, e, k, N_A, Delta nu_Cs, K_cd	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	162,247	named
+	quantum-electrical identities K_J = 2e/h, R_K = h/e^2, Z_0/R_K = 2 alpha	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	162-165,247	named
+	conductance quantum G_0 = 2e^2/h	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	162-165,247	alias-of:von Klitzing constant R_K (1/R_K = G_0/2)
+	magnetic flux quantum Phi_0 = h/2e	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	162-165,247	alias-of:Josephson constant K_J (K_J = 1/Phi_0)
+	electron volt in joules	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	162,247	alias-of:elementary charge e (1 eV = e x 1 V, numerically e)
+	vacuum magnetic permeability mu_0 = 4 pi alpha hbar/(e^2 c)	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	162-165,247	alias-of:fine-structure constant alpha (mu_0 is alpha relabelled under exact h, e, c; same relative uncertainty)
+	pure mathematical constants pi, e, zeta(n), gamma, Catalan, Khinchin, Glaisher	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	195,248	named
+	Chaitin's constant Omega_U	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	199,249	named
+	d4 rung occupancy	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	87-88,250	named
+	CHSH / Tsirelson bound 2 sqrt 2	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	140,251	named
+	Bekenstein-Hawking entropy coefficient S = A/4	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	143,252	named
+	Bekenstein entropy-bound coefficient 2 pi	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	170,253	named
+	KSS shear-viscosity ratio eta/s = hbar/(4 pi k_B)	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	153,254	named
+	MSS chaos bound lambda_L beta <= 2 pi	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	147,255	named
+	charged-lepton Koide relation Q	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	73,256	named
+	quark mass ratios	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	82,257	named
+	alpha_s(M_Z^2)	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	82,258	named
+	Lambda_QCD / Lambda_5	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	82,259	named
+	electron anomalous magnetic moment a_e	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	83,260	named
+	electron g factor g_e = 2(1 + a_e)	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	83,260	alias-of:electron anomalous magnetic moment a_e
+	muon anomalous magnetic moment a_mu	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	83,261	named
+	tau anomalous magnetic moment a_tau	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	83,262	named
+	proton-electron mass ratio m_p/m_e	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	69,263	named
+	proton and neutron magnetic moments	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	83-84,264	named
+	deuteron magnetic moment	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	83-84,265	named
+	deuteron electric quadrupole moment	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	83-84,266	named
+	triton and helion magnetic moments	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	83-84,267	named
+	proton, deuteron and alpha charge radii	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	84,268	named
+	neutron-proton mass splitting	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	84,269	named
+	free neutron lifetime	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	85,270	named
+	deuteron and alpha binding energies	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	85,271	named
+	sin^2 theta_W and M_W/M_Z	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	77,272	named
+	W boson mass m_W	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	77,272	alias-of:M_W/M_Z (numerator of the named ratio)
+	Fermi constant G_F and electroweak vev v	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	85-86,273	named
+	Higgs mass, m_H/v, quartic lambda_H	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	86,274	named
+	top Yukawa coupling / top mass	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	86,275	named
+	strong-CP angle theta_QCD	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	86,276	named
+	CKM mixing angles / Cabibbo angle	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	86-87,277	named
+	CKM Jarlskog invariant J	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	86-87,277	alias-of:CKM mixing angles (J is a function of the four CKM angles)
+	PMNS mixing angles / tribimaximal texture	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	87,278	named
+	dark-matter-to-baryon density ratio Omega_DM/Omega_b	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	116-117,279	named
+	density fractions Omega_m0, Omega_Lambda0, Omega_r0 and z_eq	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	117-118,280	named
+matter density fraction Omega_m	density fractions Omega_m0, Omega_Lambda0, Omega_r0 and z_eq	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	117-118,280	named
+	spatial curvature Omega_K	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	184,281	named
+	dark-energy equation of state w, w0, wa	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	186,282	named
+	baryon-to-photon ratio eta = n_b/n_gamma	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	105,283	named
+	N_eff, N_gen = 3, Delta N_eff	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	118,284	named
+	physical density parameters omega_b, omega_c, omega_m	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	118,285	named
+	photon number density and entropy-per-photon	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	119,286	named
+	matter-radiation equality z_eq, a_eq, k_eq	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	117-118,287	named
+	CMB photon-diffusion damping scale k_D	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	119,288	named
+	BBN light-element abundances Y_p, D/H, Li/H	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	119-120,289	named
+	present-day CMB temperature T_CMB0	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	167,290	named
+	spectral index n_s / tilt	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	120,291	named
+scalar spectral index n_s	spectral index n_s / tilt	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	120,291	named
+	spectral running dn_s/dlnk	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	120,292	named
+	primordial non-Gaussianity f_NL	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	120,293	named
+	tensor-to-scalar ratio r	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	121,294	named
+	CMB acoustic angular scale theta_*, l_A	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	111,295	named
+	CMB lensing amplitude A_L	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	121,296	named
+	reionization optical depth tau	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	108,297	named
+reionization optical depth tau	reionization optical depth tau	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	108,297	named
+	reionization history x_e(z), redshift of reionization, low-l E-mode bump, kSZ signal	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	109-110	named
+	primordial scalar amplitude A_s	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	121,298	named
+	BAO sound horizon r_drag (and sound horizon generally)	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	121-122,299	named
+	growth amplitude sigma8 / S8	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	122,300	named
+	Hubble constant H0 (and H(z))	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	215,301	named
+	critical density rho_crit = 3 H0^2 / 8 pi G	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	215,301	alias-of:Hubble constant H0 (and Newtonian G)
+	age of the universe t0 and t0/t_Planck	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	219,302	named
+	standard genetic code 64 -> 20 + stop orbit quotient	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	201,303	named
+	dark-energy scale rho_Lambda^(1/4)	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	179,304	named
+	3D Ising / Wilson-Fisher critical exponents	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	154,305	named
+	Feigenbaum constants delta and alpha	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	153-154,306	named
+	materials T_c/E_F, Homes and Uemura scalings	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	91-92,307	named
+	alpha_G flagship formula	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	316	named
+	m_e/M_Pl = sqrt(alpha_G) electron-to-Planck mass ratio	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	317	named
+	Z/A as gravitational-source reading	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	318	named
+	G-alpha co-variation	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	319	named
+	fine-structure constant alpha (scale input)	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	320	named
+	Planck mass M_Pl (scale input)	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	321	named
+	mass-ladder template exponent	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	322	named
+	neutrino d6 assignment, Sigma m_nu	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	323	named
+	m_bb effective Majorana mass envelope	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	324	named
+	d7/d8 dark-sector assignments	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	325	named
+	delta_CP = 0/180, J_CP = 0	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	326	named
+	R_T(5) = 22/105, R_J(5) = 16/15	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	327	named
+	P2-Chem GMTKN55 residuals	historical-research/project_briefs/demarcation-external/II_06_CATALOGUE_OF_REFUSALS.md	328	named
+	MOND acceleration scale a0 and a0(z) proportional to H(z)	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	81,165	named
+	neutrino mass ordering (normal/inverted)	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	53,82	named
+	top-quark pole mass m_t	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	83,111	named
+	Higgs quartic at the Planck scale lambda(M_Pl)	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	83,116	named
+	e-fold number N (shared driver of r and n_s)	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	43-49,84	named
+	d=7 ladder rung mass 4.8102e-11 eV (and Planck-dressed 4.5467e-11 eV)	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	85	named
+	black-hole spin chi (superradiance kill spec)	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	85	named
+	m_lightest neutrino mass	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	56	named
+	Majorana phase structure 0/pi	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	58	named
+	nuclear matrix element NME for 0nbb	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	87	named
+	Newton's constant G (sub-2 ppm), geometric modulus a_mod, Z = 1	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	147-151	named
+	sigma(Sigma m_nu) instrument precision	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	152-158	named
+	d8 fractional occupancy f8	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	159-164	named
+	radial-acceleration relation, g_bar	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	165-169	named
+	superfluid stiffness, kinetic inductance, penetration depth (SC-5.1)	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	170-172	named
+	Planckian ratio r_L(T,x), MFL/OTOC	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	173-177	named
+	KROSS/KMOS3D rotation-curve calibration	historical-research/project_briefs/demarcation-external/I_08_DECISION_CALENDAR.md	81	named
+	H0 * t_Planck	historical-research/project_briefs/demarcation-external/II_11_DECISION_PROCEDURE.md	105	named
+	H * t (Hubble time product)	historical-research/project_briefs/demarcation-external/II_11_DECISION_PROCEDURE.md	107	named
+	electron mass 0.511 MeV as ladder anchor	historical-research/project_briefs/demarcation-external/II_11_DECISION_PROCEDURE.md	160,173	named
+	neutrino rung 16.96 meV	historical-research/project_briefs/demarcation-external/II_11_DECISION_PROCEDURE.md	161	named
+	mass ladder m(d) = m_e alpha^((dim SO(d,2)-21)/2)	historical-research/project_briefs/demarcation-external/II_11_DECISION_PROCEDURE.md	173	named
+	normalization factor 4/3 e^(-5 alpha/2)	historical-research/project_briefs/demarcation-external/II_11_DECISION_PROCEDURE.md	366-367	named
+	theta_23 = 45 deg, theta_13 charge-leak entries	historical-research/project_briefs/demarcation-external/II_11_DECISION_PROCEDURE.md	346-355	named
+	Omega_m0 rational-density null	historical-research/project_briefs/demarcation-external/II_11_DECISION_PROCEDURE.md	215	named
+	collapse-type X-ray emission / mass scaling	historical-research/project_briefs/demarcation-external/II_11_DECISION_PROCEDURE.md	76-77	named
+	tau lepton mean life tau_tau	historical-research/project_briefs/demarcation-external/items.tsv	2	prior item or control
+	hydrogen 1S-2S two-photon transition frequency	historical-research/project_briefs/demarcation-external/items.tsv	3	prior item or control
+	K_L mean life tau_KL	historical-research/project_briefs/demarcation-external/items.tsv	4	prior item or control
+	ocean fraction of Earth's surface area f_ocean	historical-research/project_briefs/demarcation-external/items.tsv	5	prior item or control
+	K+ to pi+ nu nubar branching fraction	historical-research/project_briefs/demarcation-external/items.tsv	6	prior item or control
+	tau leptonic branching ratio B(tau->mu)/B(tau->e)	historical-research/project_briefs/demarcation-external/items.tsv	7	prior item or control
+	K_L-K_S mass difference Delta m_K	historical-research/project_briefs/demarcation-external/items.tsv	8	prior item or control
+	solar neutrino mass-squared splitting Delta m2_21	historical-research/project_briefs/demarcation-external/items.tsv	9	prior item or control
+	Lorenz number L	historical-research/project_briefs/demarcation-external/items.tsv	10	prior item or control
+	number of QCD colours N_c	historical-research/project_briefs/demarcation-external/items.tsv	11	prior item or control
+	Upsilon(1S) to proton mass ratio m_Upsilon/m_p	historical-research/project_briefs/demarcation-external/items.tsv	12	prior item or control
+	solar pp-neutrino flux Phi_pp	historical-research/project_briefs/demarcation-external/items.tsv	13	prior item or control
+	graphite interlayer spacing	historical-research/project_briefs/demarcation-external/items.tsv	14	prior item or control
+	molar volume of silicon V_m(Si)	historical-research/project_briefs/demarcation-external/items.tsv	15	prior item or control
+	W leptonic branching fraction B(W->l nu)	historical-research/project_briefs/demarcation-external/items.tsv	16	prior item or control
+	fused-silica refractive index at 589 nm	historical-research/project_briefs/demarcation-external/items.tsv	17	prior item or control
+	obliquity of the ecliptic at J2000	historical-research/project_briefs/demarcation-external/items.tsv	18	prior item or control
+photon decoupling redshift z_star	photon decoupling redshift z_star	historical-research/project_briefs/demarcation-external/items.tsv	19	prior item or control
+	tropical year at J2000	historical-research/project_briefs/demarcation-external/items.tsv	20	prior item or control
+	rho(770) width to mass ratio Gamma_rho/m_rho	historical-research/project_briefs/demarcation-external/items.tsv	21	prior item or control
+	Lambda to p pi- decay asymmetry alpha_Lambda	historical-research/project_briefs/demarcation-external/items.tsv	22	prior item or control
+	eta meson to proton mass ratio m_eta/m_p	historical-research/project_briefs/demarcation-external/items.tsv	23	prior item or control
+	silicon band gap at 300 K	historical-research/project_briefs/demarcation-external/items.tsv	24	prior item or control
+	Z peak hadronic cross section sigma_had_0	historical-research/project_briefs/demarcation-external/items.tsv	25	prior item or control
+	sidereal day	historical-research/project_briefs/demarcation-external/items.tsv	26	prior item or control
+	lead electron-phonon coupling constant lambda	historical-research/project_briefs/demarcation-external/items.tsv	27	prior item or control
+	Sackur-Tetrode constant S_0/R at 1 K and 100 kPa	historical-research/project_briefs/demarcation-external/items.tsv	28	prior item or control
+	nucleon axial coupling g_A	historical-research/project_briefs/demarcation-external/items.tsv	29	prior item or control
+	charged pion to proton mass ratio m_pi/m_p	historical-research/project_briefs/demarcation-external/items.tsv	30	prior item or control
+	Hartree energy E_h	historical-research/project_briefs/demarcation-external/items.tsv	31	prior item or control
+	helium first ionization energy	historical-research/project_briefs/demarcation-external/items.tsv	32	prior item or control
+	diamond bulk modulus	historical-research/project_briefs/demarcation-external/items.tsv	33	prior item or control
+	triple point of water T_TPW	historical-research/project_briefs/demarcation-external/items.tsv	34	prior item or control
+	Richardson constant A_0	historical-research/project_briefs/demarcation-external/items.tsv	35	prior item or control
+	hydrogen 21 cm hyperfine frequency	historical-research/project_briefs/demarcation-external/items.tsv	36	prior item or control
+	Bohr magneton mu_B	historical-research/project_briefs/demarcation-external/items.tsv	37	prior item or control
+	Wien wavelength displacement law constant b	historical-research/project_briefs/demarcation-external/items.tsv	38	prior item or control
+	copper Debye temperature	historical-research/project_briefs/demarcation-external/items.tsv	39	prior item or control
+	global phase of the universal wave function Phi_U	historical-research/project_briefs/demarcation-external/items.tsv	40	prior item or control
+	solar equatorial radius R_sun	historical-research/project_briefs/demarcation-external/items.tsv	41	prior item or control
+	argon heat-capacity ratio gamma	historical-research/project_briefs/demarcation-external/items.tsv	42	prior item or control
+	Z hadronic to leptonic width ratio R_l	historical-research/project_briefs/demarcation-external/items.tsv	43	prior item or control
+	Julian year of the light-year definition	historical-research/project_briefs/demarcation-external/items.tsv	44	prior item or control
+	elapsed time since J2000.0 in Julian centuries T_J2000	historical-research/project_briefs/demarcation-external/items.tsv	45	prior item or control
+	silicon static relative permittivity	historical-research/project_briefs/demarcation-external/items.tsv	46	prior item or control
+	escape-to-circular speed ratio v_esc/v_circ at fixed radius	historical-research/project_briefs/demarcation-external/items.tsv	47	prior item or control
+	Earth equatorial radius R_earth	historical-research/project_briefs/demarcation-external/items.tsv	48	prior item or control
+	standard acceleration of gravity g_n	historical-research/project_briefs/demarcation-external/items.tsv	49	prior item or control
+	diamond Debye temperature	historical-research/project_briefs/demarcation-external/items.tsv	50	prior item or control
+	proton relative atomic mass A_r(p)	historical-research/project_briefs/demarcation-external/items.tsv	51	prior item or control
+	standard-state pressure	historical-research/project_briefs/demarcation-external/items.tsv	52	prior item or control
+	Rydberg constant R_inf	historical-research/project_briefs/demarcation-external/items.tsv	53	prior item or control
+	muon mean life tau_mu	historical-research/project_briefs/demarcation-external/items.tsv	54	prior item or control
+	CMB dipole amplitude	historical-research/project_briefs/demarcation-external/items.tsv	55	prior item or control
+standard atmosphere	standard atmosphere	historical-research/project_briefs/demarcation-external/items.tsv	56	prior item or control
+	Angstrom star	historical-research/project_briefs/demarcation-external/items.tsv	57	prior item or control
+	reference sound pressure of the decibel scale p_0	historical-research/project_briefs/demarcation-external/items.tsv	58	prior item or control
+	Z boson total width Gamma_Z	historical-research/project_briefs/demarcation-external/items.tsv	59	prior item or control
+	tau-electron mass ratio m_tau/m_e	historical-research/project_briefs/demarcation-external/items.tsv	60	prior item or control
+	thermal conductance quantum g_0/T	historical-research/project_briefs/demarcation-external/items.tsv	61	prior item or control
+	solar circular velocity about Galactic centre Theta_0	historical-research/project_briefs/demarcation-external/items.tsv	62	prior item or control
+	copper x unit xu(CuKalpha1)	historical-research/project_briefs/demarcation-external/items.tsv	63	prior item or control
+	water static relative permittivity at 25 C	historical-research/project_briefs/demarcation-external/items.tsv	64	prior item or control
+	Thomson cross section sigma_e	historical-research/project_briefs/demarcation-external/items.tsv	65	prior item or control
+	proton electric polarizability alpha_E	historical-research/project_briefs/demarcation-external/items.tsv	66	prior item or control
+	atomic mass constant energy equivalent in MeV	historical-research/project_briefs/demarcation-external/items.tsv	67	prior item or control
+	Earth core mass fraction	historical-research/project_briefs/demarcation-external/items_r2.tsv	2	prior item or control
+	neutrino mass-squared splitting ratio Delta m2_21/Delta m2_32	historical-research/project_briefs/demarcation-external/items_r2.tsv	3	prior item or control
+	superfluid helium-4 specific-heat exponent alpha	historical-research/project_briefs/demarcation-external/items_r2.tsv	4	prior item or control
+	helium-4 roton gap Delta/k_B	historical-research/project_briefs/demarcation-external/items_r2.tsv	5	prior item or control
+	pion decay constant f_pi	historical-research/project_briefs/demarcation-external/items_r2.tsv	6	prior item or control
+	B0 mixing frequency Delta m_d	historical-research/project_briefs/demarcation-external/items_r2.tsv	7	prior item or control
+	B_s to mu+ mu- branching fraction	historical-research/project_briefs/demarcation-external/items_r2.tsv	8	prior item or control
+	muon decay Michel parameter rho	historical-research/project_briefs/demarcation-external/items_r2.tsv	9	prior item or control
+	solar mass parameter GM_sun	historical-research/project_briefs/demarcation-external/items_r2.tsv	10	prior item or control
+	solar luminosity L_sun	historical-research/project_briefs/demarcation-external/items_r2.tsv	11	prior item or control
+	reference sound pressure of the decibel scale p_0	historical-research/project_briefs/demarcation-external/items_r2.tsv	12	prior item or control
+	classical electron radius r_e	historical-research/project_briefs/demarcation-external/items_r2.tsv	13	prior item or control
+	Bohr radius a_0	historical-research/project_briefs/demarcation-external/items_r2.tsv	14	prior item or control
+	elapsed time since J2000.0 in Julian centuries T_J2000	historical-research/project_briefs/demarcation-external/items_r2.tsv	15	prior item or control
+	Stefan-Boltzmann constant sigma	historical-research/project_briefs/demarcation-external/items_r2.tsv	16	prior item or control
+	Wien frequency displacement law constant b_prime	historical-research/project_briefs/demarcation-external/items_r2.tsv	17	prior item or control
+	B_s mixing frequency Delta m_s	historical-research/project_briefs/demarcation-external/items_r2.tsv	18	prior item or control
+	proton magnetic shielding correction in water at 25 C sigma_p_prime	historical-research/project_briefs/demarcation-external/items_r2.tsv	19	prior item or control
+	electroweak rho_0 ratio	historical-research/project_briefs/demarcation-external/items_r2.tsv	20	prior item or control
+	BCS gap ratio 2Delta(0)/k_B T_c in aluminium	historical-research/project_briefs/demarcation-external/items_r2.tsv	21	prior item or control
+	copper Fermi energy	historical-research/project_briefs/demarcation-external/items_r2.tsv	22	prior item or control
+	electron Compton wavelength lambda_C	historical-research/project_briefs/demarcation-external/items_r2.tsv	23	prior item or control
+	iron Curie temperature	historical-research/project_briefs/demarcation-external/items_r2.tsv	24	prior item or control
+	local dark-matter density rho_DM	historical-research/project_briefs/demarcation-external/items_r2.tsv	25	prior item or control
+	primordial power-spectrum pivot scale k_0	historical-research/project_briefs/demarcation-external/items_r2.tsv	26	prior item or control
+	solar distance from Galactic centre R_0	historical-research/project_briefs/demarcation-external/items_r2.tsv	27	prior item or control
+	electron relative atomic mass A_r(e)	historical-research/project_briefs/demarcation-external/items_r2.tsv	28	prior item or control
+	Sun to Earth mass ratio M_sun/M_earth	historical-research/project_briefs/demarcation-external/items_r2.tsv	29	prior item or control
+	kaon direct CP-violation ratio Re(epsilon_prime/epsilon)	historical-research/project_briefs/demarcation-external/items_r2.tsv	30	prior item or control
+	astronomical unit au	historical-research/project_briefs/demarcation-external/items_r2.tsv	31	prior item or control
+	neutral pion mean life tau_pi0	historical-research/project_briefs/demarcation-external/items_r2.tsv	32	prior item or control
+	K_S mean life tau_KS	historical-research/project_briefs/demarcation-external/items_r2.tsv	33	prior item or control
+	maximum density of liquid water	historical-research/project_briefs/demarcation-external/items_r2.tsv	34	prior item or control
+	Lambda baryon to proton mass ratio m_Lambda/m_p	historical-research/project_briefs/demarcation-external/items_r2.tsv	35	prior item or control
+	Delta(1232) to proton mass ratio m_Delta/m_p	historical-research/project_briefs/demarcation-external/items_r2.tsv	36	prior item or control
+	Z b-quark width fraction R_b	historical-research/project_briefs/demarcation-external/items_r2.tsv	37	prior item or control
+	charged-neutral pion mass difference	historical-research/project_briefs/demarcation-external/items_r2.tsv	38	prior item or control
+	kaon to pion decay constant ratio f_K/f_pi	historical-research/project_briefs/demarcation-external/items_r2.tsv	39	prior item or control
+	helium-4 lambda point	historical-research/project_briefs/demarcation-external/items_r2.tsv	40	prior item or control
+	charged pion mean life tau_pi	historical-research/project_briefs/demarcation-external/items_r2.tsv	41	prior item or control
+	global phase of the universal wave function Phi_U	historical-research/project_briefs/demarcation-external/items_r2.tsv	42	prior item or control
+	molar volume of ideal gas at 273.15 K and 101.325 kPa	historical-research/project_briefs/demarcation-external/items_r2.tsv	43	prior item or control
+	sodium chloride lattice constant	historical-research/project_briefs/demarcation-external/items_r2.tsv	44	prior item or control
+	pion leptonic decay ratio R_pi	historical-research/project_briefs/demarcation-external/items_r2.tsv	45	prior item or control
+baryon drag redshift z_drag	baryon drag redshift z_drag	historical-research/project_briefs/demarcation-external/items_r2.tsv	46	prior item or control
+	tau to e nu nu branching fraction	historical-research/project_briefs/demarcation-external/items_r2.tsv	47	prior item or control
+	graphene Fermi velocity	historical-research/project_briefs/demarcation-external/items_r2.tsv	48	prior item or control
+	muon-electron mass ratio m_mu/m_e	historical-research/project_briefs/demarcation-external/items_r2.tsv	49	prior item or control
+	escape-to-circular speed ratio v_esc/v_circ at fixed radius	historical-research/project_briefs/demarcation-external/items_r2.tsv	50	prior item or control
+	niobium superconducting transition temperature	historical-research/project_briefs/demarcation-external/items_r2.tsv	51	prior item or control
+	lattice parameter of silicon a	historical-research/project_briefs/demarcation-external/items_r2.tsv	52	prior item or control
+	J/psi to proton mass ratio m_Jpsi/m_p	historical-research/project_briefs/demarcation-external/items_r2.tsv	53	prior item or control
+	kaon indirect CP-violation magnitude |epsilon_K|	historical-research/project_briefs/demarcation-external/items_r2.tsv	54	prior item or control
+	Omega-minus baryon to proton mass ratio m_Omega/m_p	historical-research/project_briefs/demarcation-external/items_r2.tsv	55	prior item or control
+	silicon (220) lattice spacing d_220	historical-research/project_briefs/demarcation-external/items_r2.tsv	56	prior item or control
+	R(D*) semitauonic ratio	historical-research/project_briefs/demarcation-external/items_r2.tsv	57	prior item or control
+	copper electrical resistivity at 20 C	historical-research/project_briefs/demarcation-external/items_r2.tsv	58	prior item or control
+	charged kaon to proton mass ratio m_K/m_p	historical-research/project_briefs/demarcation-external/items_r2.tsv	59	prior item or control
+	Julian year of the light-year definition	historical-research/project_briefs/demarcation-external/items_r2.tsv	60	prior item or control
+	speed of sound in dry air at 20 C	historical-research/project_briefs/demarcation-external/items_r2.tsv	61	prior item or control
+	Earth orbital eccentricity at J2000	historical-research/project_briefs/demarcation-external/items_r2.tsv	62	prior item or control
+	tungsten work function (polycrystalline)	historical-research/project_briefs/demarcation-external/items_r2.tsv	63	prior item or control
+	molar mass of carbon-12 M(12C)	historical-research/project_briefs/demarcation-external/items_r2.tsv	64	prior item or control
+	gallium melting point (ITS-90 fixed point)	historical-research/project_briefs/demarcation-external/items_r2.tsv	65	prior item or control
+	BCS specific-heat jump Delta C/(gamma T_c) in aluminium	historical-research/project_briefs/demarcation-external/items_r2.tsv	66	prior item or control
+	silicon longitudinal electron effective-mass ratio m_l/m_e	historical-research/project_briefs/demarcation-external/items_r2.tsv	67	prior item or control
+	reference sound pressure of the decibel scale p_0	historical-research/project_briefs/demarcation-external/control_key.json	controls:C1	prior planted control
+	Julian year of the light-year definition	historical-research/project_briefs/demarcation-external/control_key.json	controls:C2	prior planted control
+	elapsed time since J2000.0 in Julian centuries T_J2000	historical-research/project_briefs/demarcation-external/control_key.json	controls:C3	prior planted control
+	global phase of the universal wave function Phi_U	historical-research/project_briefs/demarcation-external/control_key.json	controls:C4	prior planted control
+	ocean fraction of Earth's surface area f_ocean	historical-research/project_briefs/demarcation-external/control_key.json	controls:C5	prior planted control
+	escape-to-circular speed ratio v_esc/v_circ at fixed radius	historical-research/project_briefs/demarcation-external/control_key.json	controls:C6	prior planted control
+	reference sound pressure of the decibel scale p_0	historical-research/project_briefs/demarcation-external/control_key_r2.json	controls:C1	prior planted control
+	Julian year of the light-year definition	historical-research/project_briefs/demarcation-external/control_key_r2.json	controls:C2	prior planted control
+	elapsed time since J2000.0 in Julian centuries T_J2000	historical-research/project_briefs/demarcation-external/control_key_r2.json	controls:C3	prior planted control
+	global phase of the universal wave function Phi_U	historical-research/project_briefs/demarcation-external/control_key_r2.json	controls:C4	prior planted control
+	Earth core mass fraction	historical-research/project_briefs/demarcation-external/control_key_r2.json	controls:C5	prior planted control
+	escape-to-circular speed ratio v_esc/v_circ at fixed radius	historical-research/project_briefs/demarcation-external/control_key_r2.json	controls:C6	prior planted control
+alpha particle rms charge radius	proton, deuteron and alpha charge radii	historical-research/project_briefs/demarcation-external/exclusions.tsv	29	catalogue alpha charge radius
+atomic mass constant	atomic mass constant energy equivalent in MeV	historical-research/project_briefs/demarcation-external/items.tsv	67	atomic mass constant energy equivalent is the same scale
+Avogadro constant	SI defining constants c, h, e, k, N_A, Delta nu_Cs, K_cd	historical-research/project_briefs/demarcation-external/exclusions.tsv	2	SI defining constant
+Bohr magneton	Bohr magneton mu_B	historical-research/project_briefs/demarcation-external/items.tsv	37	r1 item
+Bohr radius	Bohr radius a_0	historical-research/project_briefs/demarcation-external/items_r2.tsv	14	r2 item
+Boltzmann constant	SI defining constants c, h, e, k, N_A, Delta nu_Cs, K_cd	historical-research/project_briefs/demarcation-external/exclusions.tsv	2	SI defining constant
+characteristic impedance of vacuum	quantum-electrical identities K_J = 2e/h, R_K = h/e^2, Z_0/R_K = 2 alpha	historical-research/project_briefs/demarcation-external/exclusions.tsv	3	quantum electrical identity
+classical electron radius	classical electron radius r_e	historical-research/project_briefs/demarcation-external/items_r2.tsv	13	r2 item
+Compton wavelength	electron Compton wavelength lambda_C	historical-research/project_briefs/demarcation-external/items_r2.tsv	23	r2 electron Compton wavelength
+electron mass	electron mass 0.511 MeV as ladder anchor	historical-research/project_briefs/demarcation-external/exclusions.tsv	105	electron ladder anchor
+electron relative atomic mass	electron relative atomic mass A_r(e)	historical-research/project_briefs/demarcation-external/items_r2.tsv	28	r2 item
+elementary charge	SI defining constants c, h, e, k, N_A, Delta nu_Cs, K_cd	historical-research/project_briefs/demarcation-external/exclusions.tsv	2	SI defining constant
+Faraday constant	SI defining constants c, h, e, k, N_A, Delta nu_Cs, K_cd	historical-research/project_briefs/demarcation-external/exclusions.tsv	2	N_A e; exact SI combination
+fine-structure constant	fine-structure constant alpha (scale input)	historical-research/project_briefs/demarcation-external/exclusions.tsv	77	catalogue scale input
+Josephson constant	quantum-electrical identities K_J = 2e/h, R_K = h/e^2, Z_0/R_K = 2 alpha	historical-research/project_briefs/demarcation-external/exclusions.tsv	3	quantum electrical identity
+molar gas constant	SI defining constants c, h, e, k, N_A, Delta nu_Cs, K_cd	historical-research/project_briefs/demarcation-external/exclusions.tsv	2	N_A k_B; exact SI combination
+molar mass constant	molar mass of carbon-12 M(12C)	historical-research/project_briefs/demarcation-external/items_r2.tsv	64	carbon-12 molar mass divided by 12
+muon g factor	muon anomalous magnetic moment a_mu	historical-research/project_briefs/demarcation-external/exclusions.tsv	22	muon anomaly g=2(1+a)
+muon mass	muon-electron mass ratio m_mu/m_e	historical-research/project_briefs/demarcation-external/items_r2.tsv	49	muon mass already probed via mass ratio
+muon Compton wavelength	muon-electron mass ratio m_mu/m_e	historical-research/project_briefs/demarcation-external/items_r2.tsv	49	inverse muon mass with exact h,c
+natural unit of velocity	SI defining constants c, h, e, k, N_A, Delta nu_Cs, K_cd	historical-research/project_briefs/demarcation-external/exclusions.tsv	2	same as c
+Planck constant	SI defining constants c, h, e, k, N_A, Delta nu_Cs, K_cd	historical-research/project_briefs/demarcation-external/exclusions.tsv	2	SI defining constant
+Planck mass	Planck mass M_Pl (scale input)	historical-research/project_briefs/demarcation-external/exclusions.tsv	78	catalogue scale input
+Planck length	Planck mass M_Pl (scale input)	historical-research/project_briefs/demarcation-external/exclusions.tsv	78	Planck scale represented as length
+Planck time	Planck mass M_Pl (scale input)	historical-research/project_briefs/demarcation-external/exclusions.tsv	78	Planck scale represented as time
+Planck temperature	Planck mass M_Pl (scale input)	historical-research/project_briefs/demarcation-external/exclusions.tsv	78	Planck scale represented as temperature
+proton mass	proton-electron mass ratio m_p/m_e	historical-research/project_briefs/demarcation-external/exclusions.tsv	24	proton mass already probed via mass ratio
+proton relative atomic mass	proton relative atomic mass A_r(p)	historical-research/project_briefs/demarcation-external/items.tsv	51	r1 item
+Rydberg constant	Rydberg constant R_inf	historical-research/project_briefs/demarcation-external/items.tsv	53	r1 item
+Sackur-Tetrode constant (1 K, 101.325 kPa)	Sackur-Tetrode constant S_0/R at 1 K and 100 kPa	historical-research/project_briefs/demarcation-external/items.tsv	28	same Sackur-Tetrode constant shifted by known pressure logarithm
+speed of light in vacuum	SI defining constants c, h, e, k, N_A, Delta nu_Cs, K_cd	historical-research/project_briefs/demarcation-external/exclusions.tsv	2	SI defining constant
+standard atmosphere	standard atmosphere	historical-research/project_briefs/demarcation-external/items.tsv	56	r1 item
+Stefan-Boltzmann constant	Stefan-Boltzmann constant sigma	historical-research/project_briefs/demarcation-external/items_r2.tsv	16	r2 item
+von Klitzing constant	quantum-electrical identities K_J = 2e/h, R_K = h/e^2, Z_0/R_K = 2 alpha	historical-research/project_briefs/demarcation-external/exclusions.tsv	3	quantum electrical identity
+Wien frequency displacement law constant	Wien frequency displacement law constant b_prime	historical-research/project_briefs/demarcation-external/items_r2.tsv	17	r2 item
+Wien wavelength displacement law constant	Wien wavelength displacement law constant b	historical-research/project_briefs/demarcation-external/items.tsv	38	r1 item
+baryon physical density omega_b	physical density parameters omega_b, omega_c, omega_m	historical-research/project_briefs/demarcation-external/exclusions.tsv	48	catalogue density
+cold dark matter physical density omega_c	physical density parameters omega_b, omega_c, omega_m	historical-research/project_briefs/demarcation-external/exclusions.tsv	48	catalogue density
+acoustic fit variable 100 theta_MC	CMB acoustic angular scale theta_*, l_A	historical-research/project_briefs/demarcation-external/exclusions.tsv	58	acoustic angular-scale fit approximation
+reionization optical depth tau	reionization optical depth tau	historical-research/project_briefs/demarcation-external/exclusions.tsv	60	catalogue optical depth
+primordial scalar amplitude ln(10^10 A_s)	primordial scalar amplitude A_s	historical-research/project_briefs/demarcation-external/exclusions.tsv	62	same amplitude logarithmic display
+scalar spectral index n_s	spectral index n_s / tilt	historical-research/project_briefs/demarcation-external/exclusions.tsv	54	catalogue tilt
+Hubble rate H0	Hubble constant H0 (and H(z))	historical-research/project_briefs/demarcation-external/exclusions.tsv	65	catalogue clock
+dark energy density fraction Omega_Lambda	density fractions Omega_m0, Omega_Lambda0, Omega_r0 and z_eq	historical-research/project_briefs/demarcation-external/exclusions.tsv	43	catalogue density fraction
+matter density fraction Omega_m	density fractions Omega_m0, Omega_Lambda0, Omega_r0 and z_eq	historical-research/project_briefs/demarcation-external/exclusions.tsv	43	catalogue density fraction
+matter physical density omega_m	physical density parameters omega_b, omega_c, omega_m	historical-research/project_briefs/demarcation-external/exclusions.tsv	48	catalogue density
+fluctuation amplitude sigma8	growth amplitude sigma8 / S8	historical-research/project_briefs/demarcation-external/exclusions.tsv	64	catalogue growth
+weak lensing amplitude S8	growth amplitude sigma8 / S8	historical-research/project_briefs/demarcation-external/exclusions.tsv	64	catalogue growth
+reionization midpoint redshift z_re	reionization history x_e(z), redshift of reionization, low-l E-mode bump, kSZ signal	historical-research/project_briefs/demarcation-external/exclusions.tsv	61	catalogue reionization
+scalar amplitude 10^9 A_s	primordial scalar amplitude A_s	historical-research/project_briefs/demarcation-external/exclusions.tsv	62	same amplitude display
+cosmic age	age of the universe t0 and t0/t_Planck	historical-research/project_briefs/demarcation-external/exclusions.tsv	67	catalogue age
+photon decoupling redshift z_star	photon decoupling redshift z_star	historical-research/project_briefs/demarcation-external/items.tsv	19	r1 item
+comoving sound horizon r_star	BAO sound horizon r_drag (and sound horizon generally)	historical-research/project_briefs/demarcation-external/exclusions.tsv	63	catalogue sound horizon generally
+acoustic scale 100 theta_star	CMB acoustic angular scale theta_*, l_A	historical-research/project_briefs/demarcation-external/exclusions.tsv	58	catalogue acoustic scale
+baryon drag redshift z_drag	baryon drag redshift z_drag	historical-research/project_briefs/demarcation-external/items_r2.tsv	46	r2 item
+sound horizon r_drag	BAO sound horizon r_drag (and sound horizon generally)	historical-research/project_briefs/demarcation-external/exclusions.tsv	63	catalogue drag sound horizon
+photon damping scale k_D	CMB photon-diffusion damping scale k_D	historical-research/project_briefs/demarcation-external/exclusions.tsv	51	catalogue damping scale
+matter radiation equality redshift z_eq	matter-radiation equality z_eq, a_eq, k_eq	historical-research/project_briefs/demarcation-external/exclusions.tsv	50	catalogue equality
+equality wavenumber k_eq	matter-radiation equality z_eq, a_eq, k_eq	historical-research/project_briefs/demarcation-external/exclusions.tsv	50	catalogue equality
+angular equality scale 100 theta_s_eq	matter-radiation equality z_eq, a_eq, k_eq	historical-research/project_briefs/demarcation-external/exclusions.tsv	50	equality sound-horizon angular display
+Earth equatorial diameter	Earth equatorial radius R_earth	historical-research/project_briefs/demarcation-external/items.tsv	48	same equatorial size as Earth equatorial radius
+Earth orbital eccentricity	Earth orbital eccentricity at J2000	historical-research/project_briefs/demarcation-external/items_r2.tsv	62	same Earth orbit eccentricity
+Earth obliquity to orbit	obliquity of the ecliptic at J2000	historical-research/project_briefs/demarcation-external/items.tsv	18	same obliquity of ecliptic
+W electron neutrino branching fraction	W leptonic branching fraction B(W->l nu)	historical-research/project_briefs/demarcation-external/items.tsv	16	r1 W leptonic branching fractions
+W muon neutrino branching fraction	W leptonic branching fraction B(W->l nu)	historical-research/project_briefs/demarcation-external/items.tsv	16	r1 W leptonic branching fractions
+W tau neutrino branching fraction	W leptonic branching fraction B(W->l nu)	historical-research/project_briefs/demarcation-external/items.tsv	16	r1 W leptonic branching fractions
+alpha particle relative atomic mass	alpha particle mass	pool_v3.tsv	181	same bare-particle mass in atomic-mass-unit representation; keep canonical mass
+deuteron relative atomic mass	deuteron mass	pool_v3.tsv	245	same bare-particle mass in atomic-mass-unit representation; keep canonical mass
+helion relative atomic mass	helion mass	pool_v3.tsv	268	same bare-particle mass in atomic-mass-unit representation; keep canonical mass
+neutron relative atomic mass	neutron mass	pool_v3.tsv	303	same bare-particle mass in atomic-mass-unit representation; keep canonical mass
+triton relative atomic mass	triton mass	pool_v3.tsv	370	same bare-particle mass in atomic-mass-unit representation; keep canonical mass
+atomic unit of velocity	fine-structure constant	historical-research/project_briefs/demarcation-external/exclusions.tsv	77	same alpha scale multiplied by exact c

@@ -1,0 +1,591 @@
+{
+ "n_rows": 74,
+ "leak_rows": [
+  "c07",
+  "c10",
+  "c14",
+  "c18",
+  "c19",
+  "c20",
+  "c22",
+  "c24",
+  "c25",
+  "c27",
+  "c28",
+  "c30",
+  "c37",
+  "c40",
+  "c41",
+  "c42",
+  "c43",
+  "c44",
+  "c47",
+  "c51",
+  "c52",
+  "c55",
+  "c56",
+  "c58",
+  "c60",
+  "c67",
+  "c68"
+ ],
+ "lanes": [
+  "L-G",
+  "L-M",
+  "L-C"
+ ],
+ "headline_nonleak": {
+  "n": 47,
+  "alpha_disposition": 0.6524025120490726,
+  "alpha_exact": "4467/6847",
+  "alpha_steps": {
+   "step0": 0.6722408026755853,
+   "step1": 0.67156262749898,
+   "step2": 0.6807817589576547,
+   "step5": 0.5280898876404494
+  },
+  "majority_vs_reference": 0.5957446808510638,
+  "majority_none": [
+   "c15",
+   "c17",
+   "c48",
+   "c62"
+  ],
+  "lane_vs_reference": {
+   "L-G": 0.6170212765957447,
+   "L-M": 0.6382978723404256,
+   "L-C": 0.5106382978723404
+  },
+  "confusion_ref_rows_majority_cols": {
+   "LAW-CANDIDATE": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 3,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 2,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 0,
+    "ALREADY-GOVERNED": 1,
+    "NONE": 2
+   },
+   "OUTPUT-OF-HISTORY": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 18,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 1,
+    "CONVENTION-BOUND": 1,
+    "EPOCH-DEPENDENT": 2,
+    "ALREADY-GOVERNED": 0,
+    "NONE": 2
+   },
+   "MODEL-CHOICE": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 1,
+    "MODEL-CHOICE": 2,
+    "NOT-YET-A-QUANTITY": 0,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 1,
+    "ALREADY-GOVERNED": 0,
+    "NONE": 0
+   },
+   "NOT-YET-A-QUANTITY": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 0,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 3,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 0,
+    "ALREADY-GOVERNED": 0,
+    "NONE": 0
+   },
+   "CONVENTION-BOUND": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 0,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 0,
+    "CONVENTION-BOUND": 1,
+    "EPOCH-DEPENDENT": 0,
+    "ALREADY-GOVERNED": 1,
+    "NONE": 0
+   },
+   "EPOCH-DEPENDENT": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 0,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 0,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 0,
+    "ALREADY-GOVERNED": 0,
+    "NONE": 0
+   },
+   "ALREADY-GOVERNED": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 1,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 1,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 0,
+    "ALREADY-GOVERNED": 4,
+    "NONE": 0
+   }
+  },
+  "disagreements": [
+   {
+    "item": "c01",
+    "reference": "ALREADY-GOVERNED",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "ALREADY-GOVERNED",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c05",
+    "reference": "LAW-CANDIDATE",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c08",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c09",
+    "reference": "LAW-CANDIDATE",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c15",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": null,
+    "L-G": "CONVENTION-BOUND",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c17",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": null,
+    "L-G": "MODEL-CHOICE",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "ALREADY-GOVERNED"
+   },
+   {
+    "item": "c23",
+    "reference": "ALREADY-GOVERNED",
+    "majority": "NOT-YET-A-QUANTITY",
+    "L-G": "ALREADY-GOVERNED",
+    "L-M": "NOT-YET-A-QUANTITY",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c38",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "CONVENTION-BOUND",
+    "L-G": "CONVENTION-BOUND",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "CONVENTION-BOUND"
+   },
+   {
+    "item": "c45",
+    "reference": "LAW-CANDIDATE",
+    "majority": "NOT-YET-A-QUANTITY",
+    "L-G": "NOT-YET-A-QUANTITY",
+    "L-M": "NOT-YET-A-QUANTITY",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c48",
+    "reference": "LAW-CANDIDATE",
+    "majority": null,
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "CONVENTION-BOUND",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c54",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c59",
+    "reference": "MODEL-CHOICE",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c62",
+    "reference": "LAW-CANDIDATE",
+    "majority": null,
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "LAW-CANDIDATE",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c63",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "NOT-YET-A-QUANTITY",
+    "L-G": "NOT-YET-A-QUANTITY",
+    "L-M": "NOT-YET-A-QUANTITY",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c65",
+    "reference": "LAW-CANDIDATE",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c69",
+    "reference": "LAW-CANDIDATE",
+    "majority": "ALREADY-GOVERNED",
+    "L-G": "ALREADY-GOVERNED",
+    "L-M": "ALREADY-GOVERNED",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c71",
+    "reference": "MODEL-CHOICE",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c73",
+    "reference": "LAW-CANDIDATE",
+    "majority": "NOT-YET-A-QUANTITY",
+    "L-G": "NOT-YET-A-QUANTITY",
+    "L-M": "NOT-YET-A-QUANTITY",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c74",
+    "reference": "CONVENTION-BOUND",
+    "majority": "ALREADY-GOVERNED",
+    "L-G": "ALREADY-GOVERNED",
+    "L-M": "ALREADY-GOVERNED",
+    "L-C": "ALREADY-GOVERNED"
+   }
+  ]
+ },
+ "all_rows": {
+  "n": 74,
+  "alpha_disposition": 0.6751038670501758,
+  "alpha_exact": "10562/15645",
+  "alpha_steps": {
+   "step0": 0.6964285714285714,
+   "step1": 0.7274595779665661,
+   "step2": 0.7204693977935493,
+   "step5": 0.5311631309436723
+  },
+  "majority_vs_reference": 0.6486486486486487,
+  "majority_none": [
+   "c15",
+   "c17",
+   "c48",
+   "c62"
+  ],
+  "lane_vs_reference": {
+   "L-G": 0.6621621621621622,
+   "L-M": 0.6756756756756757,
+   "L-C": 0.5945945945945946
+  },
+  "confusion_ref_rows_majority_cols": {
+   "LAW-CANDIDATE": {
+    "LAW-CANDIDATE": 1,
+    "OUTPUT-OF-HISTORY": 4,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 2,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 0,
+    "ALREADY-GOVERNED": 1,
+    "NONE": 2
+   },
+   "OUTPUT-OF-HISTORY": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 35,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 1,
+    "CONVENTION-BOUND": 1,
+    "EPOCH-DEPENDENT": 5,
+    "ALREADY-GOVERNED": 2,
+    "NONE": 2
+   },
+   "MODEL-CHOICE": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 1,
+    "MODEL-CHOICE": 2,
+    "NOT-YET-A-QUANTITY": 0,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 1,
+    "ALREADY-GOVERNED": 0,
+    "NONE": 0
+   },
+   "NOT-YET-A-QUANTITY": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 0,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 3,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 0,
+    "ALREADY-GOVERNED": 0,
+    "NONE": 0
+   },
+   "CONVENTION-BOUND": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 0,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 0,
+    "CONVENTION-BOUND": 1,
+    "EPOCH-DEPENDENT": 1,
+    "ALREADY-GOVERNED": 1,
+    "NONE": 0
+   },
+   "EPOCH-DEPENDENT": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 0,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 0,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 2,
+    "ALREADY-GOVERNED": 0,
+    "NONE": 0
+   },
+   "ALREADY-GOVERNED": {
+    "LAW-CANDIDATE": 0,
+    "OUTPUT-OF-HISTORY": 1,
+    "MODEL-CHOICE": 0,
+    "NOT-YET-A-QUANTITY": 1,
+    "CONVENTION-BOUND": 0,
+    "EPOCH-DEPENDENT": 0,
+    "ALREADY-GOVERNED": 4,
+    "NONE": 0
+   }
+  },
+  "disagreements": [
+   {
+    "item": "c01",
+    "reference": "ALREADY-GOVERNED",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "ALREADY-GOVERNED",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c05",
+    "reference": "LAW-CANDIDATE",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c07",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c08",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c09",
+    "reference": "LAW-CANDIDATE",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c10",
+    "reference": "CONVENTION-BOUND",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c15",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": null,
+    "L-G": "CONVENTION-BOUND",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c17",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": null,
+    "L-G": "MODEL-CHOICE",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "ALREADY-GOVERNED"
+   },
+   {
+    "item": "c22",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c23",
+    "reference": "ALREADY-GOVERNED",
+    "majority": "NOT-YET-A-QUANTITY",
+    "L-G": "ALREADY-GOVERNED",
+    "L-M": "NOT-YET-A-QUANTITY",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c28",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "ALREADY-GOVERNED",
+    "L-G": "ALREADY-GOVERNED",
+    "L-M": "MODEL-CHOICE",
+    "L-C": "ALREADY-GOVERNED"
+   },
+   {
+    "item": "c38",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "CONVENTION-BOUND",
+    "L-G": "CONVENTION-BOUND",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "CONVENTION-BOUND"
+   },
+   {
+    "item": "c42",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c44",
+    "reference": "LAW-CANDIDATE",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c45",
+    "reference": "LAW-CANDIDATE",
+    "majority": "NOT-YET-A-QUANTITY",
+    "L-G": "NOT-YET-A-QUANTITY",
+    "L-M": "NOT-YET-A-QUANTITY",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c48",
+    "reference": "LAW-CANDIDATE",
+    "majority": null,
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "CONVENTION-BOUND",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c54",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c55",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "ALREADY-GOVERNED",
+    "L-G": "ALREADY-GOVERNED",
+    "L-M": "MODEL-CHOICE",
+    "L-C": "ALREADY-GOVERNED"
+   },
+   {
+    "item": "c59",
+    "reference": "MODEL-CHOICE",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c62",
+    "reference": "LAW-CANDIDATE",
+    "majority": null,
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "LAW-CANDIDATE",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c63",
+    "reference": "OUTPUT-OF-HISTORY",
+    "majority": "NOT-YET-A-QUANTITY",
+    "L-G": "NOT-YET-A-QUANTITY",
+    "L-M": "NOT-YET-A-QUANTITY",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c65",
+    "reference": "LAW-CANDIDATE",
+    "majority": "OUTPUT-OF-HISTORY",
+    "L-G": "OUTPUT-OF-HISTORY",
+    "L-M": "OUTPUT-OF-HISTORY",
+    "L-C": "OUTPUT-OF-HISTORY"
+   },
+   {
+    "item": "c69",
+    "reference": "LAW-CANDIDATE",
+    "majority": "ALREADY-GOVERNED",
+    "L-G": "ALREADY-GOVERNED",
+    "L-M": "ALREADY-GOVERNED",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c71",
+    "reference": "MODEL-CHOICE",
+    "majority": "EPOCH-DEPENDENT",
+    "L-G": "EPOCH-DEPENDENT",
+    "L-M": "EPOCH-DEPENDENT",
+    "L-C": "EPOCH-DEPENDENT"
+   },
+   {
+    "item": "c73",
+    "reference": "LAW-CANDIDATE",
+    "majority": "NOT-YET-A-QUANTITY",
+    "L-G": "NOT-YET-A-QUANTITY",
+    "L-M": "NOT-YET-A-QUANTITY",
+    "L-C": "NOT-YET-A-QUANTITY"
+   },
+   {
+    "item": "c74",
+    "reference": "CONVENTION-BOUND",
+    "majority": "ALREADY-GOVERNED",
+    "L-G": "ALREADY-GOVERNED",
+    "L-M": "ALREADY-GOVERNED",
+    "L-C": "ALREADY-GOVERNED"
+   }
+  ]
+ }
+}

@@ -1,0 +1,127 @@
+{"id":"J001","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J002","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J003","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J004","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J005","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J006","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J007","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J008","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J009","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J010","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Denominator determines order and formal slope together, but H is fitted. Ratio and SU(2) heat-kernel comparison check; no exact formula follows."}
+{"id":"J011","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J012","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J013","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J014","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J015","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J016","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J017","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J018","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J019","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J020","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J021","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J022","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J023","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J024","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object but require fitted H. Weighted hypersurface multiplicity 2 and a-invariant 6 also check."}
+{"id":"J025","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J026","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J027","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J028","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J029","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J030","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J031","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J032","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J033","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J034","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J035","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J036","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J037","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J038","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J039","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J040","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Denominator unifies order and formal slope, not their fitted values. Ratio and SU(3) heat-kernel data check; actual formula remains unexplained."}
+{"id":"J041","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J042","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl expansion and ratio check. Order and formal slope belong together, but H remains fitted; SU(2) product supplies no power match."}
+{"id":"J043","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J044","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J045","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J046","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J047","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J048","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J049","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J050","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J051","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J052","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object but require fitted H. Alternative complete-intersection multiplicity 4 and a-invariant −2 check."}
+{"id":"J053","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"A6 root count, canonical product, rho pairing, expansion, and ratio check. Same denominator gives formal slope; target H is unspecified."}
+{"id":"J054","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J055","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J056","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J057","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object but require fitted H. Alternative complete-intersection multiplicity 4 and a-invariant 1 check."}
+{"id":"J058","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J059","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object but require fitted H. Alternative complete-intersection multiplicity 5 and a-invariant 4 check."}
+{"id":"J060","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Denominator unifies order and formal slope, but H remains fitted. Ratio and sphere-product asymptotics check; no exact target function follows."}
+{"id":"J061","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl expansion and ratio check. Order and formal slope belong together, but H remains fitted; SU(3) supplies no power match."}
+{"id":"J062","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J063","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J064","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J065","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J066","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J067","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J068","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J069","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J070","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Denominator unifies order and formal slope, not their fitted values. Ratio and SU(3) heat-kernel data check; actual formula remains unexplained."}
+{"id":"J071","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J072","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J073","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object but require fitted H. Alternative complete-intersection multiplicity 5 and a-invariant 8 check."}
+{"id":"J074","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Denominator determines order and formal slope together, but H is fitted. Ratio and SU(2) heat-kernel comparison check; no exact formula follows."}
+{"id":"J075","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J076","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J077","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J078","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J079","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object but require fitted H. Weighted hypersurface multiplicity 2 and a-invariant 6 also check."}
+{"id":"J080","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J081","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J082","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J083","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J084","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object, but H is fitted. Bound and C2 rho norm 5/2 check; heat-kernel power differs."}
+{"id":"J085","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J086","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J087","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J088","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J089","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J090","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J091","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J092","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object but require fitted H. Weighted hypersurface multiplicity 3 and a-invariant −3 also check."}
+{"id":"J093","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object but require fitted H. Weighted hypersurface multiplicity 3 and a-invariant 5 also check."}
+{"id":"J094","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J095","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J096","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J097","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J098","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J099","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J100","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J101","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J102","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Denominator unifies order and formal slope, but H remains fitted. Ratio and sphere-product asymptotics check; no exact target function follows."}
+{"id":"J103","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J104","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J105","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object, but H is fitted. SU(4) dimension 15 and rho norm 5 check."}
+{"id":"J106","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"The stated oscillator forces degree 21; temperature is an independent fitted parameter. Density algebra is correct with normalized action measure."}
+{"id":"J107","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl expansion and ratio check. Order and formal slope belong together, but H remains fitted; SU(3) supplies no power match."}
+{"id":"J108","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J109","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"A6 root count, canonical product, rho pairing, expansion, and bound check. Same denominator gives formal slope; target H is unspecified."}
+{"id":"J110","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J111","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J112","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"A6 root count, canonical product, rho pairing, expansion, and ratio check. Same denominator gives formal slope; target H is unspecified."}
+{"id":"J113","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J114","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J115","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J116","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J117","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"A6 root count, canonical product, rho pairing, expansion, and bound check. Same denominator gives formal slope; target H is unspecified."}
+{"id":"J118","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J119","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Root count and formal slope share one denominator; H and prefactor remain unfixed. Checked bounds are correct; expression is only asymptotic."}
+{"id":"J120","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Denominator unifies order and formal slope, but H remains fitted. Ratio and SU(2) product data check; heat-kernel power differs."}
+{"id":"J121","P":2,"S":0,"U":1,"C":0,"V":2,"score":5,"note":"Degree follows from 22 modes. Cutoff permits negative temperature, but temperature and frequency are fitted; density calculation is correct."}
+{"id":"J122","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J123","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Denominator unifies order and formal slope, but H remains fitted. Ratio and sphere-product asymptotics check; no exact target function follows."}
+{"id":"J124","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object but require fitted H. Weighted hypersurface multiplicity 2 and a-invariant 5 also check."}
+{"id":"J125","P":0,"S":0,"U":0,"C":0,"V":0,"score":0,"note":"No account."}
+{"id":"J126","P":2,"S":0,"U":2,"C":0,"V":2,"score":6,"note":"Weyl order and formal slope share one object, but H is fitted. Bound and A3 rho norm 5 check; heat-kernel power differs."}
+{"recognition":"none"}

@@ -1,0 +1,13 @@
+{
+  "index": 180,
+  "audits": 2,
+  "routes": 178,
+  "empty": 15,
+  "nonempty": 163,
+  "raw_leader": 13,
+  "guardrail": 9,
+  "dates": [
+    "2026-06-23",
+    "2026-06-25"
+  ]
+}

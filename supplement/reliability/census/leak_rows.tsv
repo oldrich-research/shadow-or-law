@@ -1,0 +1,67 @@
+id	row_name	atlas_line	card_version	card_line	card_quote	match_scope
+c07	Density fractions Ω_m0, Ω_Λ0, z_eq	78	r2	167	angular distance and therefore an output of recombination plus background geometry; the equality redshift;	named component in two bundled rows
+c07	Density fractions Ω_m0, Ω_Λ0, z_eq	78	r2	217	| matter density fraction | 1073 | ~1063.9 | sham mean 1065.8, p = 0.078 |	named quantity
+c07	Density fractions Ω_m0, Ω_Λ0, z_eq	78	v3-sealed	181	angular distance and therefore an output of recombination plus background geometry; the equality redshift;	named component in two bundled rows
+c07	Density fractions Ω_m0, Ω_Λ0, z_eq	78	v3-sealed	231	| matter density fraction | 1073 | ~1063.9 | sham mean 1065.8, p = 0.078 |	named quantity
+c10	CMB temperature T_CMB0	88	r2	136	- the present cosmic-microwave-background temperature in kelvin — unit-laden; its dimensionless anchored	named quantity
+c10	CMB temperature T_CMB0	88	v3-sealed	143	- the present cosmic-microwave-background temperature in kelvin — unit-laden; its dimensionless anchored	named quantity
+c14	Deuteron magnetic moment	63	r2	171	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c14	Deuteron magnetic moment	63	v3-sealed	185	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c18	Muon anomalous moment, a_μ	59	r2	173	Worked boundary: a lepton anomalous magnetic moment predicted by an established perturbative derivation from	named family; all three charged-lepton anomalies included
+c18	Muon anomalous moment, a_μ	59	v3-sealed	187	Worked boundary: a lepton anomalous magnetic moment predicted by an established perturbative derivation from	named family; all three charged-lepton anomalies included
+c19	Acoustic scale θ_*, l_A	93	r2	166	(baryogenesis plus nucleosynthesis dynamics); the acoustic scale, which is a ratio of a sound horizon to an	named quantity
+c19	Acoustic scale θ_*, l_A	93	r2	214	| acoustic scale (×100) | 45 | ~45.6 | p(count ≥ obs) = 0.72 |	named quantity
+c19	Acoustic scale θ_*, l_A	93	v3-sealed	180	(baryogenesis plus nucleosynthesis dynamics); the acoustic scale, which is a ratio of a sound horizon to an	named quantity
+c19	Acoustic scale θ_*, l_A	93	v3-sealed	228	| acoustic scale (×100) | 45 | ~45.6 | p(count ≥ obs) = 0.72 |	named quantity
+c20	Quark mass ratios	55	r2	171	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c20	Quark mass ratios	55	v3-sealed	185	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c22	BAO sound horizon r_drag	97	r2	168	the optical depth; the damping scale; the growth amplitude; the sound horizon. The same catalogue applied the	named quantities
+c22	BAO sound horizon r_drag	97	v3-sealed	182	the optical depth; the damping scale; the growth amplitude; the sound horizon. The same catalogue applied the	named quantities
+c24	Reionization optical depth τ	95	r2	168	the optical depth; the damping scale; the growth amplitude; the sound horizon. The same catalogue applied the	named quantities
+c24	Reionization optical depth τ	95	v3-sealed	182	the optical depth; the damping scale; the growth amplitude; the sound horizon. The same catalogue applied the	named quantities
+c25	CKM angles / Cabibbo angle	75	r2	171	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c25	CKM angles / Cabibbo angle	75	v3-sealed	185	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c27	Deuteron/alpha binding energies	69	r2	170	dynamics: the proton-to-electron mass ratio, nuclear binding energies	named quantities
+c27	Deuteron/alpha binding energies	69	v3-sealed	184	dynamics: the proton-to-electron mass ratio, nuclear binding energies	named quantities
+c28	Electron anomalous moment, a_e	58	r2	173	Worked boundary: a lepton anomalous magnetic moment predicted by an established perturbative derivation from	named family; all three charged-lepton anomalies included
+c28	Electron anomalous moment, a_e	58	v3-sealed	187	Worked boundary: a lepton anomalous magnetic moment predicted by an established perturbative derivation from	named family; all three charged-lepton anomalies included
+c30	m_p/m_e	61	r2	170	dynamics: the proton-to-electron mass ratio, nuclear binding energies	named quantities
+c30	m_p/m_e	61	v3-sealed	184	dynamics: the proton-to-electron mass ratio, nuclear binding energies	named quantities
+c37	Universe age t0, t0/t_Pl	100	r2	139	- the age of the universe in Planck times — an odometer, larger tomorrow than today;	named quantity
+c37	Universe age t0, t0/t_Pl	100	r2	140	- the Hubble rate times the cosmic age — passes through 2/3 in matter domination, ≈0.95 now, and exceeds 1	shared composite in two bundled rows
+c37	Universe age t0, t0/t_Pl	100	r2	216	| cosmic age in Planck times | 1103 | ~1099.0 | sham mean 1100.9, p = 0.38 |	named quantity
+c37	Universe age t0, t0/t_Pl	100	v3-sealed	146	- the age of the universe in Planck times — an odometer, larger tomorrow than today;	named quantity
+c37	Universe age t0, t0/t_Pl	100	v3-sealed	147	- the Hubble rate times the cosmic age — passes through 2/3 in matter domination, ≈0.95 now, and exceeds 1	shared composite in two bundled rows
+c37	Universe age t0, t0/t_Pl	100	v3-sealed	230	| cosmic age in Planck times | 1103 | ~1099.0 | sham mean 1100.9, p = 0.38 |	named quantity
+c40	Deuteron electric quadrupole moment	64	r2	171	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c40	Deuteron electric quadrupole moment	64	v3-sealed	185	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c41	Hubble constant H0	99	r2	138	- the Hubble rate times the Planck time — an epoch-defined reading of the Hubble clock, not a constant;	named quantity
+c41	Hubble constant H0	99	r2	140	- the Hubble rate times the cosmic age — passes through 2/3 in matter domination, ≈0.95 now, and exceeds 1	shared composite in two bundled rows
+c41	Hubble constant H0	99	v3-sealed	145	- the Hubble rate times the Planck time — an epoch-defined reading of the Hubble clock, not a constant;	named quantity
+c41	Hubble constant H0	99	v3-sealed	147	- the Hubble rate times the cosmic age — passes through 2/3 in matter domination, ≈0.95 now, and exceeds 1	shared composite in two bundled rows
+c42	Growth amplitude σ8, S8	98	r2	168	the optical depth; the damping scale; the growth amplitude; the sound horizon. The same catalogue applied the	named quantities
+c42	Growth amplitude σ8, S8	98	v3-sealed	182	the optical depth; the damping scale; the growth amplitude; the sound horizon. The same catalogue applied the	named quantities
+c43	Matter-radiation equality z_eq, a_eq, k_eq	85	r2	167	angular distance and therefore an output of recombination plus background geometry; the equality redshift;	named component in two bundled rows
+c43	Matter-radiation equality z_eq, a_eq, k_eq	85	v3-sealed	181	angular distance and therefore an output of recombination plus background geometry; the equality redshift;	named component in two bundled rows
+c44	α_G flagship formula	33	r2	325	**A quantity that fails at step 5: a normalisation factor inside the programme's own flagship formula.**	named component; formula row conservatively flagged
+c44	α_G flagship formula	33	v3-sealed	343	**A quantity that fails at step 5: a normalisation factor inside the programme's own flagship formula.**	named component; formula row conservatively flagged
+c47	Spectral index n_s / tilt	89	r2	215	| scalar spectral index | 637 | ~638 | best hit 2/57 = the ordinary slow-roll form |	named quantity
+c47	Spectral index n_s / tilt	89	r2	292	scalar spectral index `n_s = 1 − 2/N` and the tensor-to-scalar ratio `r = 12/N²`, on separate rows with	named linked quantities
+c47	Spectral index n_s / tilt	89	v3-sealed	229	| scalar spectral index | 637 | ~638 | best hit 2/57 = the ordinary slow-roll form |	named quantity
+c47	Spectral index n_s / tilt	89	v3-sealed	310	scalar spectral index `n_s = 1 − 2/N` and the tensor-to-scalar ratio `r = 12/N²`, on separate rows with	named linked quantities
+c51	Baryon-to-photon ratio η	81	r2	165	Worked failures from the originating programme's catalogue (cosmological): the baryon-to-photon ratio	named quantity
+c51	Baryon-to-photon ratio η	81	v3-sealed	179	Worked failures from the originating programme's catalogue (cosmological): the baryon-to-photon ratio	named quantity
+c52	Tensor-to-scalar ratio r	92	r2	292	scalar spectral index `n_s = 1 − 2/N` and the tensor-to-scalar ratio `r = 12/N²`, on separate rows with	named linked quantities
+c52	Tensor-to-scalar ratio r	92	v3-sealed	310	scalar spectral index `n_s = 1 − 2/N` and the tensor-to-scalar ratio `r = 12/N²`, on separate rows with	named linked quantities
+c55	Tau anomalous moment, a_τ	60	r2	173	Worked boundary: a lepton anomalous magnetic moment predicted by an established perturbative derivation from	named family; all three charged-lepton anomalies included
+c55	Tau anomalous moment, a_τ	60	v3-sealed	187	Worked boundary: a lepton anomalous magnetic moment predicted by an established perturbative derivation from	named family; all three charged-lepton anomalies included
+c56	δ_CP=0/180, J_CP=0	47	r2	312	**A quantity that passes: the leptonic CP-violating phase.**	named quantity
+c56	δ_CP=0/180, J_CP=0	47	v3-sealed	330	**A quantity that passes: the leptonic CP-violating phase.**	named quantity
+c58	PMNS angles / TBM texture	76	r2	171	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c58	PMNS angles / TBM texture	76	v3-sealed	185	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c60	CMB damping scale k_D	86	r2	168	the optical depth; the damping scale; the growth amplitude; the sound horizon. The same catalogue applied the	named quantities
+c60	CMB damping scale k_D	86	v3-sealed	182	the optical depth; the damping scale; the growth amplitude; the sound horizon. The same catalogue applied the	named quantities
+c67	Proton/neutron magnetic moments	62	r2	171	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c67	Proton/neutron magnetic moments	62	v3-sealed	185	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c68	Triton/helion magnetic moments	65	r2	171	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included
+c68	Triton/helion magnetic moments	65	v3-sealed	185	and moments, the quark mass ratios, the mixing angles. None of these appears in your dossier set.	named family; all bundled nuclear moments and mixing angles conservatively included

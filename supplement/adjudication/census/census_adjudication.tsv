@@ -1,0 +1,27 @@
+id	verdict	adjudicated	note
+c01	AMBIGUOUS	ALREADY-GOVERNED	card conflict: definition lists universality-class constants as ALREADY-GOVERNED; step-2 literal text routes non-perturbative transition solutions to HISTORY (G,C followed it). v4: fixed-point data with no contingent process = STATIC.
+c05	CENSUS-FAULTED	OUTPUT-OF-HISTORY	free-parameter rule (step 2): lightest neutrino mass is a free input; d=6 expression without mechanism cannot make it static. Reopen: established derivation of m1 from static structure. Forward prediction stays registered, not census evidence.
+c07	CENSUS-FAULTED	EPOCH-DEPENDENT	first stop: present-epoch Ω_m0, Ω_Λ0 drift (step 1); z_eq alone HISTORY. Leak row.
+c08	CENSUS-FAULTED	EPOCH-DEPENDENT	atlas row bundles Λ-mixed ratio (epoch-dependent, atlas itself says so); first stop step 1. Ω_DM/Ω_b alone HISTORY. v4: split bundles.
+c09	CENSUS-FAULTED	OUTPUT-OF-HISTORY	free-parameter rule: m_e is a free input (Yukawa × v). Reopen: bridge deriving m_e/M_Pl from static structure.
+c10	CENSUS-FAULTED	EPOCH-DEPENDENT	measured temperature, not a defined unit; natural form k_B T/(m_e c²) ∝ (1+z) (card's own worked failure). Leak row.
+c15	AMBIGUOUS	EPOCH-DEPENDENT	bundle: ω = present densities over a nominal H=100 reference (G: convention; M: epoch) + ratios (C: history). Lead: present densities → step 1 epoch, as c07/c54. v4: split bundles; nominal-reference rule.
+c17	AMBIGUOUS	ALREADY-GOVERNED	A_L = ratio to the model's own lensing prediction; growth history cancels (reference HISTORY unsupported). GR fixes A_L=1 (C: SELECTED-ESTABLISHED) vs free in ΛCDM+A_L (G: MODEL-CHOICE). Lead: ALREADY-GOVERNED; measured 1.18±0.065 = known tension.
+c22	CENSUS-FAULTED	EPOCH-DEPENDENT	bundle with dossier-supplied H0 r_drag/c (present H0) → step 1; r_drag alone HISTORY (card example). Leak row. v4: split bundles.
+c23	DOSSIER-DEFECT	ALREADY-GOVERNED	dossier names only the mathematical map class; physical carriers (period-doubling in convection, circuits) omitted → M,C: no carrier. Reference stands for the physical universality constant.
+c28	CENSUS-FAULTED	ALREADY-GOVERNED	card's explicit worked boundary: perturbatively predicted lepton anomaly = STATIC, SELECTED-ESTABLISHED. M (MODEL-CHOICE) contradicts it. Leak row; flagged before lanes (card r2 note).
+c38	CENSUS-FAULTED	CONVENTION-BOUND	step 1.1: named combination fixed by a defining identity (√(ħc/G)); physics lives in G. Frozen mapping's SCALE→HISTORY assumption conflicts with step 1.1 (step 1 precedes step 2).
+c42	CENSUS-FAULTED	EPOCH-DEPENDENT	σ8 defined at z=0, S8 adds present Ω_m and nominal 0.3 → step 1. Card's "growth amplitude" example loosely worded. Leak row. v4: present-epoch amplitudes epoch, fixed-event outputs history.
+c44	CENSUS-FAULTED	OUTPUT-OF-HISTORY	free-parameter rule: α_G set by m_e (free input); no mechanism (HS-1, HS-2). Reopen: bridge deriving m_e/M_Pl from static structure, then the α-expression's rational-density null. Leak row.
+c45	CENSUS-FAULTED	NOT-YET-A-QUANTITY	step 0: no identified particle carries the d=7/d=8 masses.
+c48	CENSUS-FAULTED	NOT-YET-A-QUANTITY	no lane supports LAW-CANDIDATE (G history, M convention, C no carrier). Lead: residual belongs to an approximate method, not to a physical system.
+c54	CENSUS-FAULTED	EPOCH-DEPENDENT	bundle includes present n_γ, n_b (∝ T0³) → step 1; s/n_γ photons-only textbook (ALREADY-GOVERNED), s/n_b ≈ history.
+c55	CENSUS-FAULTED	ALREADY-GOVERNED	worked boundary as c28; only a bound measured, hadronic part not value-setting at that precision. Leak row.
+c59	CENSUS-FAULTED	OUTPUT-OF-HISTORY	natural form ρ_Λ^(1/4)/M_Pl static in ΛCDM; cosmological constant = free parameter → step 2 HISTORY (priority rule).
+c62	AMBIGUOUS	NOT-YET-A-QUANTITY	both drifts consistent with zero → slope has no readout (C); M: conditional SELECTED-NEW; G: rates epoch-dependent. Lead: NOT-YET; reopen = nonzero drift measured, then slope 21 − 5α/2 = registered conditional prediction.
+c63	CENSUS-FAULTED	NOT-YET-A-QUANTITY	step 0: no physical state identified with m = α^-3 m_e.
+c65	CENSUS-FAULTED	OUTPUT-OF-HISTORY	free masses, mixing, unmeasured Majorana phases → step 2 HISTORY.
+c69	CENSUS-FAULTED	ALREADY-GOVERNED	established analytic large-N derivation (Petkou 1995) (G,M); C: no physical d=5 specimen → NOT-YET also admissible. LAW-CANDIDATE unsupported.
+c71	CENSUS-FAULTED	EPOCH-DEPENDENT	Ω_K defined at the present epoch drifts unless exactly 0; epoch-invariant claim = k=0.
+c73	CENSUS-FAULTED	NOT-YET-A-QUANTITY	group-dimension expression without particle identification: no carrier.
+c74	CENSUS-FAULTED	ALREADY-GOVERNED	coefficient fixed by an established derivation of the bound under its hypotheses; not a convention.

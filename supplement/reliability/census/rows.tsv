@@ -1,0 +1,75 @@
+id	name	atlas_line	ii06_group	atlas_name	order_sha256
+c01	3D Ising / Wilson-Fisher exponents	103	Different theorem	3D Ising / Wilson-Fisher critical exponents	005a03c9c3ab3d14a15928218891cbbd8c3a8f18ff93bcf776c671852244d0b7
+c02	Top Yukawa / top mass	73	Output of a history	top Yukawa `y_t ~= 1` / top mass as static tower law	005c7243e7a7ff4209ba5bb63ab1f400e571b3de0f5580c5fdec2638c6c86d99
+c03	θ_QCD / strong-CP angle	74	Output of a history	`theta_QCD` / physical `theta_bar`	06be746f961de42c216a90a82f71a3fa2ca6e522793a4ef27ab0b98f054bf347
+c04	Scalar amplitude A_s	96	Output of a history	Primordial scalar amplitude `A_s` / `ln(10^10 A_s)` as static alpha/rational/tower law	0871ac77e6e6ead0ffe44b30fa408247726f8232cb83acc17cafb2cf7a473d45
+c05	Neutrino = d6 assignment, Σm_ν	43	non-refused	physical assignment `neutrino = d6` and `Sigma m_nu = 87.1060-88.3606 meV`	0dc42dfe2717f8c073e280a538c7fc75307247cd8a25e4436d165595456337e5
+c06	α_s(M_Z²)	56	Output of a history	`alpha_s(M_Z^2)=0.1180(9)` as static tower law	0e5d3b08b01d900062f0c9784c93add6d0df41afbfe8562fc5d83923375dee57
+c07	Density fractions Ω_m0, Ω_Λ0, z_eq	78	Output of a history	Present-day density fractions `Omega_m0`, `Omega_Lambda0`, `Omega_Lambda0/Omega_m0`, equality redshift as static tower/rational law	10185a65bd6e0283df4a0331a5cd58446228438fe34d0354424afa7a71f633d7
+c08	Ω_DM/Ω_b	77	Output of a history	`Omega_DM/Omega_b`, `(Omega_DM+Omega_Lambda)/Omega_b`	118e505fea41b1aa6e586c5798041f8d17077b1202fd06782c4eaa991cb467af
+c09	m_e/M_Pl = √α_G	34	non-refused	`m_e/M_Pl = sqrt(alpha_G)` / electron-Planck ratio	1204fc60f0da0e270ea1d60cea9d382368e6182b545e76ff0404162945db768d
+c10	CMB temperature T_CMB0	88	Convention-bound	Present-day CMB temperature `T_CMB0`, `kT`, `kT/(m_e c^2)` as static alpha/tower/rational law	13ae311b2f0409cee3a3840361ddf78689d9d122007bf2d1def5431ce24090e8
+c11	BBN light abundances Yp, D/H, Li/H	87	Output of a history	BBN light abundances `Yp`, `D/H`, `Li/H` as static alpha/rational/tower law	183bdc530f50f7f05faca2c10806c37c055e052e7d0e10beebf1633acea5c49b
+c12	Free neutron lifetime	68	Output of a history	free neutron lifetime `tau_n`, width `Gamma_n/m_e`, and beta `Q_beta/m_e` as isolated static tower-law candidates [REFUSED]	1b99d218577dc438fb5d2e3d09a2a27d484f4eae85c22e64859393011be6680d
+c13	MSS chaos bound	53	Different theorem	MSS quantum chaos bound `lambda_L <= 2*pi*k_B*T/hbar` / `lambda_L*beta <= 2*pi` as static law or clean-falsifier candidate	1be845e49449488e108d2857986fa28a172b5d5f4bdd49183dda7ed10a68bdb3
+c14	Deuteron magnetic moment	63	Output of a history	deuteron magnetic moment `mu_d/mu_N=0.8574382335` as isolated static tower-law candidate [REFUSED]	2003a9c1954d239ba8b76417fc7a755b1be5a79d4707597312cccf0d4abe0ae6
+c15	ω_b, ω_c, ω_m	83	Output of a history	Physical density parameters `omega_b`, `omega_c`, `omega_m` and baryon/CDM fractions as static rational/alpha/tower law	20a1c5423522ed731d4f9fa9e2a4911d84306bd01e8938f3b53db4eb42b76363
+c16	Λ_QCD / Λ_5	57	Output of a history	QCD dimensional-transmutation scale `Lambda_QCD` / `Lambda_5` as static alpha/tower law	20e73ca472e6394e040c7a79d99ee41554e705eaeda242f11ea3d0e1a550b6d7
+c17	CMB lensing amplitude A_L	94	Output of a history	CMB lensing-amplitude `A_L` / `A_lens` as static unity/rational/tower law	294cf0e8f693b3bd8bf3bf37ce09fab664845a8cb08369444e058d9ca2598fcf
+c18	Muon anomalous moment, a_μ	59	Output of a history	muon anomalous magnetic moment `a_mu=(g_mu-2)/2=1.165920715(145)e-3` or current `exp-SM` residual as static tower law	29f1b9433ef6796317b6ac580ee1104ca7028cb555a88576c11fce8c7c868280
+c19	Acoustic scale θ_*, l_A	93	Output of a history	CMB acoustic angular scale `theta_*`, `100theta_*`, `l_A=pi/theta_*` as static rational/tower law	2d8ccff5c54c4b44e36a4e445426c11c85211816ae366c54dde217f0bc957076
+c20	Quark mass ratios	55	Output of a history	quark mass ratios as static SO(d,2)/alpha/tower law	2ee4a7969520deca837135841709c89b9d1cd0bdeaa956ab6a78e9a43b42e0af
+c21	Z/A as gravitational-source reading	35	non-refused	electron/proton count per unit mass (`Z/A`) as the full-strength long-range gravitational source reading of `V*(hbar*c/m_e^2)*alpha^21`	34806ac3d60c8ee55d14e115778b7c53ab4e9f36529da4974704fdc99d8e3c03
+c22	BAO sound horizon r_drag	97	Output of a history	BAO sound horizon `rdrag`, `H0*rdrag/c`, inverse as static rational/tower law	39812e2ee09a145e6adb8bff131c320209b09377b07a2b3092176e37cec50168
+c23	Feigenbaum constants δ, α	104	Different theorem	Feigenbaum constants `delta`, `alpha` as standalone G-DECODE law/falsifier targets	3e096d87ca3da21a1c75cf54c50b606c8746ade192d18369191fb679d08a6ae0
+c24	Reionization optical depth τ	95	Output of a history	Reionization optical depth `tau` as static alpha/rational/tower law	4578fb2a5b4903b177e844f19e1de2984873a032d2b07256aca14f760ba12a63
+c25	CKM angles / Cabibbo angle	75	Output of a history	CKM angles / Cabibbo angle (`lambda = sin theta12`)	48644fc7f4bccc04a3af1588fd434f3015dc5cd931dcef76a2a50d3500a32dc6
+c26	N_eff, N_gen=3, ΔN_eff	82	Output of a history	`N_eff`, `N_gen=3`, `Delta_N_eff` as static alpha/rational/tower law	494e94d30b6837e127cbfe287730132e6ed5b1260bfed909b45e9d59f5aa3f55
+c27	Deuteron/alpha binding energies	69	Output of a history	deuteron/alpha binding energies `B_d`, `B_alpha` or ratios as isolated static tower-law candidates [REFUSED]	4ed978fb4f3c3b5916258e2900842b40444edc21995e2bee6788590223a77f63
+c28	Electron anomalous moment, a_e	58	Output of a history	electron anomalous magnetic moment `a_e=(g_e-2)/2=1.15965218046(18)e-3` as static tower law	4fb96cd1ea2bddb2314eeed1800ef9a0784a9371c8e7dca3a573373acacbdf09
+c29	Genetic code 64→20+STOP orbit quotient	101	No carrier	standard genetic code `64 -> 20 amino acids + STOP` as forced orbit quotient	4fd5724e8e3ddcecf57151f006c7892923643a5763d26d94c08dd2cab460a9d7
+c30	m_p/m_e	61	Output of a history	`m_p/m_e = 1836.152673426`	5c91e9e5c789277a531577b8c41bb044b282baabc165902ce8e2e1cac4e75472
+c31	Bekenstein-Hawking coefficient, S=A/4	50	Different theorem	Bekenstein-Hawking entropy coefficient `1/4` / `S=A/4` as forced-measure or clean-falsifier candidate	601e028382aed0ca638b3fc82952dd8b10dfaebc43c5f335aea8cceccbf2d9cc
+c32	Spectral running dn_s/dlnk	90	Output of a history	Scalar spectral running `dn_s/dlnk` / `alpha_run` as static zero/rational/alpha/tower law	611959fbb764be84626d6101a46bf03d72e12d71030bcaa0b6c522eda579a2e4
+c33	Higgs mass / m_H/v / λ_H	72	Output of a history	Higgs pole mass / `m_H/v` / `lambda_H=m_H²/(2v²)` as static tower law	6231a2e04bd3041592ca913ff96c78f21767d8149c81d0960016caa8bcf54920
+c34	SI defining constants / quantum-electrical identities	39	Convention-bound	SI defining constants and quantum electrical identities (`c,h,e,k,N_A,Delta nu_Cs,K_cd,K_J=2e/h,R_K=h/e^2`, identity composites, `Z_0/R_K`)	62d4c2758991761fab602e51337ab7e7f04b8c75c34e16ad2f5d32cd102030f2
+c35	Fermi constant / EW vev, G_F, v	71	Output of a history	Fermi constant / electroweak vev `G_F`, `v`, `m_e/v`, `v/M_Pl` as static alpha/tower law	65041ef2ad217b0ea0549e13f71bca6f9287950c0f741038fa7e7126a0340d44
+c36	KSS shear-viscosity ratio	52	Different theorem	KSS / holographic shear-viscosity value `eta/s=hbar/(4*pi*k_B)` as static law or clean-falsifier candidate	6530f73bae03d0691464070a466a5189201cd7e79ff876cecaf93853380b0cab
+c37	Universe age t0, t0/t_Pl	100	Epoch-dependent	Universe age `t0`, `t0/t_Pl`, `H0*t0` as static alpha/rational/tower law	65521a77e5cf0b06ae7b12552cad995c9988948558697717bed3575f1bf6ca8e
+c38	M_Pl	38	non-refused	M_Pl / overall mass scale	678e11294f796777063544253b3c802e7cd64c17a3515738ce3ee76672e667fa
+c39	Proton/deuteron/alpha charge radii	66	Output of a history	proton/deuteron/alpha rms charge radii `r_p`, `r_d`, `r_alpha` or ratios as static tower law	682bce2881f2da74e19824198592f0271ceeca8ed5b24f4aa40bf3937c589405
+c40	Deuteron electric quadrupole moment	64	Output of a history	deuteron electric quadrupole moment `Q_d=0.285699 fm^2`, normalized `Q_d/r_d^2=0.063103765552`, as static tower law	690cb52fbcf65c48644f7640a5260077e138b3fe061c41d43bfc5541b7fa26fc
+c41	Hubble constant H0	99	Epoch-dependent	Hubble constant `H0` / `H0*t_Pl` as static alpha-tower law	6f9f10b1d7e79a7f8e12c39edb4a4baaec548e736eed0d8a9b2365615d96acac
+c42	Growth amplitude σ8, S8	98	Output of a history	Growth amplitude `sigma8`, `S8` as static rational/tower law	7872b31c44ad84af906f4f607caf6a163ffd5613d6722308603a5561e7252b2e
+c43	Matter-radiation equality z_eq, a_eq, k_eq	85	Output of a history	Matter-radiation equality `z_eq`, `a_eq`, `k_eq`, `100theta_s,eq` as static rational/alpha/tower law	7c84c142a3b26c19ad27092f1605ab7ff0e5de54469badfe59138f3900757902
+c44	α_G flagship formula	33	non-refused	`alpha_G = (4/3) alpha^21 exp(-5 alpha/2)` at IR/CODATA input; NIST 2026 precision-G holdout	7d088c292301cf6713aac31e272b11d50f9d29b126727f2d26b8fe62ac6481ee
+c45	d7/d8 dark-sector assignments	46	non-refused	`d7` / `d8` dark-sector assignments	85ccfc8133340304f7ae4db878f58ad7a041a05edb7944a74fe09636f23d90d8
+c46	Dark-energy equation of state w, w0, wa	80	Model choice	Dark-energy equation of state `w`, `w0`, `wa` as static rational/tower law	861a8dfa238625e305e705a72d59dd6ef6793f1ea2c9a51c46ea00d71b6bc0fa
+c47	Spectral index n_s / tilt	89	Output of a history	CMB scalar spectral index `n_s` / tilt deficit `delta=1-n_s` as static tower law	8ecf5fa24e440f4d94e2c7b15ab89d32ecd817f30551d17c8bb9118a2b65c1e4
+c48	P2-Chem GMTKN55 residuals	105	non-refused	P2-Chem GMTKN55 residuals	99b2a0cd008c993d730500b89bf380ee118900ee54ed09b84e2df37ed39f73fa
+c49	Chaitin's Ω_U	41	No carrier	Chaitin `Omega_U` / halting probability as standalone G-DECODE law/falsifier target	9d9f91d7d3725121ab7e50004bb2dcbc96affc99f869fd083f9b41f9e8f0ac5a
+c50	Material T_c/E_F, Homes/Uemura ratios	106	Output of a history	material `T_c/E_F`, Homes/Uemura ratios / SC-5.1 material-descriptor route	a09f120904f97327edf1fcbafa58bbacb782217ac946cea575955cc621604bac
+c51	Baryon-to-photon ratio η	81	Output of a history	`eta = n_b/n_gamma` baryon-to-photon ratio as static tower law	a414460626c80b34700c8dff4a58be060bbf4491b9b0cb027883918c370facfb
+c52	Tensor-to-scalar ratio r	92	Output of a history	Tensor-to-scalar ratio `r` as static zero/rational/alpha/tower law	ac00e2a7683cbfb4dc1539e305b9d2205e2989cdd34cf0b0dc8df1421eeb152c
+c53	alpha	37	non-refused	alpha	ae1902e07e37362e4b84396c645a8c8e683d7b56563e076ed6e2857cec4a838d
+c54	Photon number density / entropy-per-photon	84	Output of a history	Photon number density `n_gamma`, baryon density `n_b`, entropy-per-photon `s/n_gamma`, entropy-per-baryon `s/n_b` as static rational/alpha/tower law	ae32c5e757c7060d1d35db85b7dce3aad6aded839fbea942419e5c9581de0287
+c55	Tau anomalous moment, a_τ	60	Output of a history	tau anomalous magnetic moment `a_tau=(g_tau-2)/2` as static tower law	b0a94d259106a55d54263be9d881103b59370f9457903232f5322c2ad62f3bad
+c56	δ_CP=0/180, J_CP=0	47	non-refused	`delta_CP = 0/180`, `J_CP=0`	b7aea123bc2e63d3ff8b5257418ee34a6e457c2931420acb7549918e4e4d9c77
+c57	Non-Gaussianity f_NL	91	Output of a history	Primordial non-Gaussianity amplitudes `f_NL` as static zero/integer/rational/tower law	b801f698c1c6b22b73ea07bc134bd955f4c5bdabac191c16cefc0c940c0275ce
+c58	PMNS angles / TBM texture	76	Output of a history	PMNS mixing angles / TBM texture	ba4ec40ec475e0e1147c05ddeab4db3e37803383dd69a45755d32af9f2100a30
+c59	Dark-energy scale ρ_Λ^(1/4)	102	Model choice	`rho_Lambda^(1/4)` / dark-energy scale	bf35aaa32158f1adf1e4da8b6a18cf60b9818f9a55b23b199b914be784052b7b
+c60	CMB damping scale k_D	86	Output of a history	CMB photon-diffusion damping scale `k_D`, `k_D*r_drag`, `k_D*r_*`, `k_D/k_eq` as static rational/alpha/tower law	bf7d78e2619fab6b4ba5bb062e2243c8061da575e68b3a72a64633ea1e4373d7
+c61	Neutron-proton mass splitting	67	Output of a history	neutron-proton mass ratio/splitting `m_n/m_p`, `Delta_np` as static tower law	c5ce94413aa959c5599d1afd4ece28d3b98318123bb86e42a5fdf7adee5431b8
+c62	G-alpha co-variation	36	non-refused	G-alpha co-variation `Gdot/G ~= (21 - 5alpha/2) alphadot/alpha`	cc63a7b8eb709d3921061011b1a6f06a830c6a3c652062b8fd6c47a4af02d4fe
+c63	d4 rung occupancy	45	Output of a history	`d4` as electroweak/matter rung	cf18c418fab9b1dda9b2e9f5327d5efbcdaefcd9e10dbaeb6a4053d034b692d6
+c64	sin²θ_W, M_W/M_Z	70	Output of a history	`sin^2 theta_W`, `M_W/M_Z` as static dimension-counting law	d04e26a4585933c334eabd95f2e198d25e1c202f68e6a6554dd2a778dd995e5c
+c65	m_ββ envelope	44	non-refused	neutrinoless double beta effective mass `m_bb` for the d6 neutrino assignment	d661b824ccc9012430b5630e9b0c197639f33c96d4ea8e23d44e8d934abab6d9
+c66	Charged-lepton Koide relation, Q	54	Output of a history	charged-lepton pole-mass ratios `m_mu/m_e`, `m_tau/m_e`; Koide `Q`	d7ce2bc40d82dbe5082c21c5a7ac71952ad5450a62c0268810122c75d47744e8
+c67	Proton/neutron magnetic moments	62	Output of a history	proton/neutron magnetic moments `mu_p/mu_N=2.79284734463`, `mu_n/mu_N=-1.91304276` as isolated static tower-law candidates [REFUSED]	e1ed5d640503edf1cec1bd5e78d9489007781c3465cb59d1acde0aa9c146d9a2
+c68	Triton/helion magnetic moments	65	Output of a history	triton / helion magnetic moments `mu_t/mu_N=2.9789624650`, `mu_h/mu_N=-2.1276253498` as static tower law	e26ff2972dd178e4941d1a8d0a2bb9ea1317c1127a1ba3b1318c8f0a6bb43a42
+c69	R_T(5)=22/105, R_J(5)=16/15	48	non-refused	forced ratios `R_T(5)=22/105`, `R_J(5)=16/15`	e312824b63c83dd2178fdeafb5490676bcf30f796252e2bed50e79499cfe0361
+c70	Pure mathematical constants	40	No carrier	Pure/famous mathematical constants (`pi`, `e`, `zeta(n)`, Euler-Mascheroni gamma, Catalan, Khinchin, Glaisher) as standalone G-DECODE law/falsifier targets	e66e460fab8684b18761522780df57f0ec2b8ece426ece0730bfba18d6756855
+c71	Spatial curvature Ω_K	79	Model choice	Spatial curvature `Omega_K` / exact flatness as static rational/tower law	f2b4291d8c2879524d51959d39ca6ea51315e0e328412116ec01d4a77afb7320
+c72	CHSH / Tsirelson bound, 2√2	49	Different theorem	CHSH Tsirelson bound `2sqrt(2)` as clean-falsifier candidate	fb253893cfbfa12ca755567e4c5d093b672713dbe4c6431f67658460fc9515b1
+c73	Ladder template exponent	42	non-refused	ladder template exponent `alpha^((dim SO(d,2)-21)/2)`; at d=6 gives `alpha^(7/2)`, at d=8 gives `alpha^12`	fb836e052ebe7a41cca155939a5801357169ab03a82048de93061c8f885d3349
+c74	Bekenstein bound coefficient, 2π	51	Convention-bound	Bekenstein entropy-bound coefficient `2*pi` in `S <= 2*pi*E*R` as static law or clean-falsifier candidate	fcd61aabd2ba1783bc1647f5ccc54666020df3fe3aa8761db38ea2c09107d9be

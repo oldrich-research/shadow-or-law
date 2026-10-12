@@ -1,0 +1,402 @@
+{
+ "n_items": 66,
+ "n_foreign": 60,
+ "n_controls": 6,
+ "lanes": [
+  "fable",
+  "astra",
+  "sol"
+ ],
+ "controls": {
+  "fable": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  },
+  "astra": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  },
+  "sol": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  }
+ },
+ "alpha_disposition": 0.3891597234532884,
+ "alpha_disposition_exact": "8781/22564",
+ "alpha_steps": {
+  "step0": 1.0,
+  "step1": 0.49169388044867246,
+  "step2": 0.5176595130401309,
+  "step5": 0.4694482444140447
+ },
+ "alpha_pairwise": {
+  "fable|astra": 0.13886172501466848,
+  "fable|sol": 0.43652762119503946,
+  "astra|sol": 0.5672727272727273
+ },
+ "verdict": "FAIL",
+ "majority_none": [
+  "q03"
+ ],
+ "validity_accuracy": 0.5166666666666667,
+ "lane_vs_reference": {
+  "fable": 0.7333333333333333,
+  "astra": 0.36666666666666664,
+  "sol": 0.5333333333333333
+ },
+ "confusion_ref_rows_majority_cols": {
+  "LAW-CANDIDATE": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 0,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "OUTPUT-OF-HISTORY": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 21,
+   "MODEL-CHOICE": 1,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 8,
+   "EPOCH-DEPENDENT": 1,
+   "ALREADY-GOVERNED": 2,
+   "NONE": 0
+  },
+  "MODEL-CHOICE": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 0,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "NOT-YET-A-QUANTITY": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 0,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "CONVENTION-BOUND": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 5,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 3,
+   "NONE": 0
+  },
+  "EPOCH-DEPENDENT": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 0,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 0,
+   "EPOCH-DEPENDENT": 2,
+   "ALREADY-GOVERNED": 0,
+   "NONE": 0
+  },
+  "ALREADY-GOVERNED": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 7,
+   "MODEL-CHOICE": 4,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 2,
+   "EPOCH-DEPENDENT": 0,
+   "ALREADY-GOVERNED": 3,
+   "NONE": 1
+  }
+ },
+ "disagreements": [
+  {
+   "item": "q03",
+   "reference": "ALREADY-GOVERNED",
+   "majority": null,
+   "fable": "ALREADY-GOVERNED",
+   "astra": "MODEL-CHOICE",
+   "sol": "OUTPUT-OF-HISTORY"
+  },
+  {
+   "item": "q06",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "OUTPUT-OF-HISTORY",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "OUTPUT-OF-HISTORY"
+  },
+  {
+   "item": "q07",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "OUTPUT-OF-HISTORY",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "MODEL-CHOICE",
+   "sol": "OUTPUT-OF-HISTORY"
+  },
+  {
+   "item": "q08",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "MODEL-CHOICE",
+   "fable": "ALREADY-GOVERNED",
+   "astra": "MODEL-CHOICE",
+   "sol": "MODEL-CHOICE"
+  },
+  {
+   "item": "q12",
+   "reference": "CONVENTION-BOUND",
+   "majority": "ALREADY-GOVERNED",
+   "fable": "MODEL-CHOICE",
+   "astra": "ALREADY-GOVERNED",
+   "sol": "ALREADY-GOVERNED"
+  },
+  {
+   "item": "q13",
+   "reference": "CONVENTION-BOUND",
+   "majority": "ALREADY-GOVERNED",
+   "fable": "MODEL-CHOICE",
+   "astra": "ALREADY-GOVERNED",
+   "sol": "ALREADY-GOVERNED"
+  },
+  {
+   "item": "q17",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "OUTPUT-OF-HISTORY",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "OUTPUT-OF-HISTORY"
+  },
+  {
+   "item": "q19",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "MODEL-CHOICE",
+   "fable": "ALREADY-GOVERNED",
+   "astra": "MODEL-CHOICE",
+   "sol": "MODEL-CHOICE"
+  },
+  {
+   "item": "q21",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "CONVENTION-BOUND",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  },
+  {
+   "item": "q22",
+   "reference": "CONVENTION-BOUND",
+   "majority": "ALREADY-GOVERNED",
+   "fable": "MODEL-CHOICE",
+   "astra": "ALREADY-GOVERNED",
+   "sol": "ALREADY-GOVERNED"
+  },
+  {
+   "item": "q23",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "CONVENTION-BOUND",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  },
+  {
+   "item": "q24",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "EPOCH-DEPENDENT",
+   "fable": "EPOCH-DEPENDENT",
+   "astra": "CONVENTION-BOUND",
+   "sol": "EPOCH-DEPENDENT"
+  },
+  {
+   "item": "q31",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "OUTPUT-OF-HISTORY",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "OUTPUT-OF-HISTORY"
+  },
+  {
+   "item": "q32",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "CONVENTION-BOUND",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  },
+  {
+   "item": "q33",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "CONVENTION-BOUND",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  },
+  {
+   "item": "q36",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "MODEL-CHOICE",
+   "fable": "ALREADY-GOVERNED",
+   "astra": "MODEL-CHOICE",
+   "sol": "MODEL-CHOICE"
+  },
+  {
+   "item": "q40",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "OUTPUT-OF-HISTORY",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "OUTPUT-OF-HISTORY"
+  },
+  {
+   "item": "q43",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "CONVENTION-BOUND",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  },
+  {
+   "item": "q46",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "MODEL-CHOICE",
+   "fable": "ALREADY-GOVERNED",
+   "astra": "MODEL-CHOICE",
+   "sol": "MODEL-CHOICE"
+  },
+  {
+   "item": "q48",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "MODEL-CHOICE",
+   "fable": "MODEL-CHOICE",
+   "astra": "MODEL-CHOICE",
+   "sol": "OUTPUT-OF-HISTORY"
+  },
+  {
+   "item": "q50",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "CONVENTION-BOUND",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  },
+  {
+   "item": "q51",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "ALREADY-GOVERNED",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "ALREADY-GOVERNED",
+   "sol": "ALREADY-GOVERNED"
+  },
+  {
+   "item": "q53",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "OUTPUT-OF-HISTORY",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "MODEL-CHOICE",
+   "sol": "OUTPUT-OF-HISTORY"
+  },
+  {
+   "item": "q55",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "ALREADY-GOVERNED",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "ALREADY-GOVERNED",
+   "sol": "ALREADY-GOVERNED"
+  },
+  {
+   "item": "q56",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "OUTPUT-OF-HISTORY",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "MODEL-CHOICE",
+   "sol": "OUTPUT-OF-HISTORY"
+  },
+  {
+   "item": "q57",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "CONVENTION-BOUND",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  },
+  {
+   "item": "q60",
+   "reference": "ALREADY-GOVERNED",
+   "majority": "CONVENTION-BOUND",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  },
+  {
+   "item": "q62",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "CONVENTION-BOUND",
+   "fable": "OUTPUT-OF-HISTORY",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  },
+  {
+   "item": "q64",
+   "reference": "OUTPUT-OF-HISTORY",
+   "majority": "CONVENTION-BOUND",
+   "fable": "CONVENTION-BOUND",
+   "astra": "CONVENTION-BOUND",
+   "sol": "CONVENTION-BOUND"
+  }
+ ],
+ "distribution": {
+  "fable": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 39,
+   "MODEL-CHOICE": 4,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 5,
+   "EPOCH-DEPENDENT": 4,
+   "ALREADY-GOVERNED": 8
+  },
+  "astra": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 14,
+   "MODEL-CHOICE": 13,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 23,
+   "EPOCH-DEPENDENT": 2,
+   "ALREADY-GOVERNED": 8
+  },
+  "sol": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 30,
+   "MODEL-CHOICE": 4,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 15,
+   "EPOCH-DEPENDENT": 3,
+   "ALREADY-GOVERNED": 8
+  },
+  "reference": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 33,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 8,
+   "EPOCH-DEPENDENT": 2,
+   "ALREADY-GOVERNED": 17
+  }
+ },
+ "scorer_sha256": "66a2c7580c30fd58116017fd278a38243e4b928fb498979de4ee3ea9824cc4a5",
+ "layout": {
+  "control_key.json": "control_key_r2.json",
+  "reference_verdicts_LEAD.md": "reference_verdicts_r2_LEAD.md",
+  "annotation_pack/i4b_verdicts.md": "annotation_pack_r2/i4hb_verdicts.md",
+  "annotation_pack/i4c_verdicts.md": "annotation_pack_r2/i4hc_verdicts.md",
+  "annotation_pack/i4d_verdicts.md": "annotation_pack_r2/i4hd_verdicts.md"
+ }
+}

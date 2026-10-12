@@ -1,0 +1,34 @@
+{
+ "rows_in_range": 8684,
+ "nonfamily_exp_alpha_checked": 223,
+ "story_rows": 200,
+ "narrow_n21": [
+  "5/2",
+  "7/3"
+ ],
+ "medium_n21_count": 44,
+ "windows": {
+  "w1": {
+   "any": 1614,
+   "cov_narrow_any": 17,
+   "sel_narrow_any": 17,
+   "cov_narrow_dl8": 13,
+   "sel_narrow_dl8": 13,
+   "cov_medium_any": 99,
+   "sel_medium_any": 98,
+   "cov_medium_dl8": 88,
+   "sel_medium_dl8": 87
+  },
+  "w2": {
+   "any": 148,
+   "cov_narrow_any": 1,
+   "sel_narrow_any": 1,
+   "cov_narrow_dl8": 1,
+   "sel_narrow_dl8": 1,
+   "cov_medium_any": 6,
+   "sel_medium_any": 6,
+   "cov_medium_dl8": 6,
+   "sel_medium_dl8": 6
+  }
+ }
+}

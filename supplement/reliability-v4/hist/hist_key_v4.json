@@ -1,0 +1,72 @@
+{
+  "seed": "20261008-p15-v4-hist",
+  "rule": "POSITIVE → expected LAW-CANDIDATE; NEGATIVE → expected any disposition except LAW-CANDIDATE (best class noted, not scored)",
+  "items": {
+    "h01": {
+      "slug": "P1-combining-volumes",
+      "truth": "POSITIVE",
+      "best_class": "LAW-CANDIDATE",
+      "later_explanation": "equal volumes of gases hold equal numbers of molecules; water = two light atoms per heavy one → exactly 2 in the ideal-gas limit"
+    },
+    "h02": {
+      "slug": "N2-disc-ratio",
+      "truth": "NEGATIVE",
+      "best_class": "EPOCH-DEPENDENT",
+      "later_explanation": "orbital eccentricities + tidal recession of the Moon: a passing value"
+    },
+    "h03": {
+      "slug": "P6-moment-anomaly",
+      "truth": "POSITIVE",
+      "best_class": "LAW-CANDIDATE",
+      "later_explanation": "quantum electrodynamics, renormalized: a = α/2π at first order"
+    },
+    "h04": {
+      "slug": "N5-cycle-over-orbit",
+      "truth": "NEGATIVE",
+      "best_class": "OUTPUT-OF-HISTORY",
+      "later_explanation": "solar magnetic dynamo output; no planetary forcing established"
+    },
+    "h05": {
+      "slug": "N4-days-per-year",
+      "truth": "NEGATIVE",
+      "best_class": "EPOCH-DEPENDENT",
+      "later_explanation": "rotation set at formation and slowed by tides; ≈ 400 days per year 400 million years ago"
+    },
+    "h06": {
+      "slug": "P5-closed-counts",
+      "truth": "POSITIVE",
+      "best_class": "LAW-CANDIDATE",
+      "later_explanation": "independent-nucleon shells with strong spin–orbit coupling → exactly these counts"
+    },
+    "h07": {
+      "slug": "P4-splitting-factor",
+      "truth": "POSITIVE",
+      "best_class": "LAW-CANDIDATE",
+      "later_explanation": "electron spin + angular-momentum coupling → g = 4/3 exactly for this level"
+    },
+    "h08": {
+      "slug": "N3-g-over-pi2",
+      "truth": "NEGATIVE",
+      "best_class": "CONVENTION-BOUND",
+      "later_explanation": "unit coincidence: the metre was once proposed as the length of the pendulum that beats seconds, which makes g ≈ π² m/s²"
+    },
+    "h09": {
+      "slug": "N1-orbit-gap-growth",
+      "truth": "NEGATIVE",
+      "best_class": "OUTPUT-OF-HISTORY",
+      "later_explanation": "orbit sizes = outcome of planet formation; the rule failed for the eighth planet"
+    },
+    "h10": {
+      "slug": "P3-line-ratio",
+      "truth": "POSITIVE",
+      "best_class": "LAW-CANDIDATE",
+      "later_explanation": "quantized bound electron in hydrogen → (1/4−1/9)^{-1}/(1/4−1/16)^{-1} = 27/20 exactly at leading order"
+    },
+    "h11": {
+      "slug": "P2-period-size-exponent",
+      "truth": "POSITIVE",
+      "best_class": "LAW-CANDIDATE",
+      "later_explanation": "inverse-square gravitation → exactly 3/2 (tiny planet-mass corrections)"
+    }
+  }
+}

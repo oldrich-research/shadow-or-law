@@ -1,0 +1,14 @@
+{
+ "kind": "claude",
+ "models": [
+  "claude-opus-5-5"
+ ],
+ "n_tool_calls": 1,
+ "all_tool_calls_name_the_sealed_path": true,
+ "reply_chars": 8543,
+ "completion_line": true,
+ "tool_calls_summary": {
+  "count": 1,
+  "only_sealed_prompt_reads": true
+ }
+}

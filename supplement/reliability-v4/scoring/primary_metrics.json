@@ -1,0 +1,151 @@
+{
+ "protocol": "PROTOCOL_V4.md sha256 99ff717a…",
+ "n_items": 66,
+ "n_foreign": 60,
+ "lanes": [
+  "L-G (OpenAI gpt-6.1-sol)",
+  "L-M (Google gemini-3.1-pro)",
+  "L-C (Anthropic claude-opus-5-5)"
+ ],
+ "controls": {
+  "G": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  },
+  "M": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  },
+  "C": {
+   "hits": 6,
+   "misses": [],
+   "valid": true
+  }
+ },
+ "valid_lanes": [
+  "G",
+  "M",
+  "C"
+ ],
+ "alpha_disposition": 1.0,
+ "alpha_disposition_exact": "1",
+ "verdict": "STRONG",
+ "alpha_steps": {
+  "step0": 1.0,
+  "step1": 1.0,
+  "step2": 1.0,
+  "step5": 1.0
+ },
+ "alpha_pairwise": {
+  "G|M": 1.0,
+  "G|C": 1.0,
+  "M|C": 1.0
+ },
+ "unanimous": 60,
+ "majority_none": [],
+ "majority_distribution": {
+  "LAW-CANDIDATE": 0,
+  "OUTPUT-OF-HISTORY": 41,
+  "MODEL-CHOICE": 0,
+  "NOT-YET-A-QUANTITY": 0,
+  "CONVENTION-BOUND": 6,
+  "EPOCH-DEPENDENT": 10,
+  "ALREADY-GOVERNED": 3
+ },
+ "distribution": {
+  "G": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 41,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 6,
+   "EPOCH-DEPENDENT": 10,
+   "ALREADY-GOVERNED": 3
+  },
+  "M": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 41,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 6,
+   "EPOCH-DEPENDENT": 10,
+   "ALREADY-GOVERNED": 3
+  },
+  "C": {
+   "LAW-CANDIDATE": 0,
+   "OUTPUT-OF-HISTORY": 41,
+   "MODEL-CHOICE": 0,
+   "NOT-YET-A-QUANTITY": 0,
+   "CONVENTION-BOUND": 6,
+   "EPOCH-DEPENDENT": 10,
+   "ALREADY-GOVERNED": 3
+  }
+ },
+ "not_unanimous": [],
+ "natural_form": {
+  "unit_bearing_items": 43,
+  "unit_bearing_list": {
+   "q01": "km",
+   "q02": "MeV",
+   "q03": "degree Celsius",
+   "q04": "MeV",
+   "q05": "kg",
+   "q08": "g cm^-3",
+   "q09": "10^24 kg",
+   "q11": "fm",
+   "q12": "eV",
+   "q13": "fm",
+   "q16": "m^-3",
+   "q17": "V",
+   "q18": "kg",
+   "q19": "s",
+   "q21": "V m^-1",
+   "q22": "GeV",
+   "q23": "g cm^-3",
+   "q27": "MeV",
+   "q28": "g cm^-3",
+   "q30": "fm",
+   "q32": "eV",
+   "q35": "MeV",
+   "q37": "g cm^-3",
+   "q38": "fm",
+   "q41": "fm",
+   "q42": "MeV",
+   "q43": "MeV",
+   "q44": "MeV",
+   "q45": "eV",
+   "q46": "degree",
+   "q47": "fm",
+   "q48": "fm",
+   "q50": "kg",
+   "q51": "C m^2",
+   "q52": "degree",
+   "q54": "MeV",
+   "q55": "V m^-2",
+   "q57": "eV",
+   "q58": "degree",
+   "q60": "degree",
+   "q61": "kg",
+   "q62": "fm",
+   "q65": "eV"
+  },
+  "G": {
+   "ratio_named": 32,
+   "none_with_reason": 6,
+   "fail_unit_without_none": []
+  },
+  "M": {
+   "ratio_named": 33,
+   "none_with_reason": 6,
+   "fail_unit_without_none": []
+  },
+  "C": {
+   "ratio_named": 33,
+   "none_with_reason": 6,
+   "fail_unit_without_none": []
+  }
+ },
+ "scorer_sha256": "66a2c7580c30fd58116017fd278a38243e4b928fb498979de4ee3ea9824cc4a5"
+}

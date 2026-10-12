@@ -1,0 +1,50 @@
+{
+  "seed": "20260907-p15-r2",
+  "note": "SEALED SEPARATELY. Planted controls with by-construction dispositions (PROTOCOL.md section Sampling). Never shipped to annotators. `assignments` is written by draw.py (item id -> control id).",
+  "controls": [
+    {
+      "control_id": "C1",
+      "name": "reference sound pressure of the decibel scale p_0",
+      "disposition": "CONVENTION-BOUND",
+      "rationale": "20 micropascal is an agreed reference level (IEC 61672); it carries units and encodes a human normalisation choice, nothing for a law to fix."
+    },
+    {
+      "control_id": "C2",
+      "name": "Julian year of the light-year definition",
+      "disposition": "CONVENTION-BOUND",
+      "rationale": "365.25 d = 31 557 600 s exactly by IAU resolution; a unit definition, not a measurement of anything."
+    },
+    {
+      "control_id": "C3",
+      "name": "elapsed time since J2000.0 in Julian centuries T_J2000",
+      "disposition": "EPOCH-DEPENDENT",
+      "rationale": "An odometer: its value is larger tomorrow than today by construction; well defined only relative to a chosen epoch."
+    },
+    {
+      "control_id": "C4",
+      "name": "global phase of the universal wave function Phi_U",
+      "disposition": "NOT-YET-A-QUANTITY",
+      "rationale": "No carrier (the universe is not a subsystem with an external reference) and no readout (a global phase has no observable consequence); nothing to measure until a carrier and readout exist."
+    },
+    {
+      "control_id": "C5",
+      "name": "Earth core mass fraction",
+      "disposition": "OUTPUT-OF-HISTORY",
+      "rationale": "step0 PASS: carrier = Earth's inner and outer core within the whole Earth; readout = integrate seismologically constrained radial density profiles over the core and divide by independently measured total Earth mass. step1 PASS: dimensionless mass fraction, neither defined nor nominal; target has no drift with epoch, observer frame or time-slice because it is the frozen whole-planet mass partition left by completed accretion and bulk core-mantle differentiation, while later inner-core freezing only redistributes mass inside the carrier. step2 HISTORY: measured 0.325 ± 0.003 is a contingent output of that completed planetary process, not a static count or theorem. Public record: Wang, Lineweaver and Ireland, Icarus 299 (2018), arXiv:1708.08718, section 4.1."
+    },
+    {
+      "control_id": "C6",
+      "name": "escape-to-circular speed ratio v_esc/v_circ at fixed radius",
+      "disposition": "ALREADY-GOVERNED",
+      "rationale": "Exactly sqrt(2) by Newtonian energy conservation for any inverse-square potential; a real, derived number already fixed by an established theory, so a second derivation would be redundant."
+    }
+  ],
+  "assignments": {
+    "q01": "C5",
+    "q11": "C1",
+    "q14": "C3",
+    "q41": "C4",
+    "q49": "C6",
+    "q59": "C2"
+  }
+}
