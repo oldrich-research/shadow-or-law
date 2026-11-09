@@ -18,6 +18,17 @@ On [research.oldrich.me](https://research.oldrich.me/shadow/):
 [Hypotheses (for experts)](https://research.oldrich.me/shadow/theory/).
 [The Czech section](https://research.oldrich.me/cs/stin/) follows the same content.
 
+## The film
+
+<a href="https://research.oldrich.me/shadow/#film"><img src="film/shadow-film.jpg" width="300" alt="Film poster: a drafting sheet with a hatched circle and a question mark under the words 'What casts this shadow?'"></a>
+
+A 3 min 24 s film for everyone: why a precisely measured number can still be a shadow, the four questions of the test,
+what happened to 74 numbers, the one left for a new law, and where our own gravity formula landed. On-screen text in
+English; works without sound.
+[Watch it on research.oldrich.me](https://research.oldrich.me/shadow/#film) ·
+[download the MP4 (10 MB)](https://github.com/oldrich-research/shadow-or-law/releases/download/paper-2026-10/shadow-film.mp4)
+(an asset of the release `paper-2026-10`).
+
 ## Whole, frame, shadow
 
 The shadow principle's established instances are textbook physics: rest mass versus frame-dependent energy and momentum,
